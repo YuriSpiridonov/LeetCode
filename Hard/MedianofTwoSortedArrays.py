@@ -15,22 +15,17 @@
 """
 #Difficulty: Hard
 #2085 / 2085 test cases passed.
-#Runtime: 96 ms
-#Memory Usage: 14 MB
+#Runtime: 84 ms
+#Memory Usage: 14.1 MB 
 
-#Runtime: 96 ms, faster than 63.37% of Python3 online submissions for Median of Two Sorted Arrays.
-#Memory Usage: 14 MB, less than 5.71% of Python3 online submissions for Median of Two Sorted Arrays.
+#Runtime: 84 ms, faster than 97.56% of Python3 online submissions for Median of Two Sorted Arrays.
+#Memory Usage: 14.1 MB, less than 5.71% of Python3 online submissions for Median of Two Sorted Arrays.
 
 class Solution:
     #def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
     def findMedianSortedArrays(nums1, nums2):
-        nums = sorted(nums1+nums2)
-        med = 0
-        if len(nums)%2 == 0:
-            med = (nums[(len(nums)//2)-1]+nums[len(nums)//2])/2
-        else:
-            med = nums[len(nums)//2]
-        return med
+        n = sorted(nums1+nums2)
+        return (n[(len(n)//2)-1]+n[len(n)//2])/2 if len(n)%2 == 0 else n[len(n)//2]
         
 #Tests
 nums1 = [1, 2]
