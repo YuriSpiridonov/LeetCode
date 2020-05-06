@@ -8,6 +8,7 @@ LeetCode problems solutions.
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting integer to string|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
+|27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
