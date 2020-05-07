@@ -10,6 +10,7 @@ LeetCode problems solutions.
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
+|35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/35.SearchInsertPosition.py)|Easy|Binary Search|
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
