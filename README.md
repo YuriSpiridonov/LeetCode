@@ -18,6 +18,7 @@ LeetCode problems solutions.
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
+|88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
 |122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/BestTimetoBuyandSellStockII.py)|Easy|
 |124.|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/BinaryTreeMaximumPathSum.py)|Hard|
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
