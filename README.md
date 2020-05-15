@@ -15,6 +15,7 @@ LeetCode problems solutions.
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/41.FirstMissingPositive.py)|Hard||
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
+|54.|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/54.SpiralMatrix.py)|Medium|
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
