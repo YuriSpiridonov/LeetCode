@@ -24,8 +24,8 @@ LeetCode problems solutions.
 |119.|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
 |122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/BestTimetoBuyandSellStockII.py)|Easy|
 |124.|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/BinaryTreeMaximumPathSum.py)|Hard|
-|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|2Pointer from start & end|
-|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReFindall.py)|Easy|Re.findall and equality of left and reversed right part|
+|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|Two pointers from start & end|
+|125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReFindall.py)|Easy|Re.findall and left half == rev. right half|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReSub.py)|Easy|Re.sub and s == reversed s|
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.py)|Medium|
