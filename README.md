@@ -11,6 +11,7 @@ LeetCode problems solutions.
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
+|34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/34.FindFirstandLastPositionofElementinSortedArray.py)|Medium|
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/35.SearchInsertPosition.py)|Easy|Binary Search|
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/41.FirstMissingPositive.py)|Hard||
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
