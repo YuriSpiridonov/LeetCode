@@ -43,7 +43,7 @@ LeetCode problems solutions.
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement thro List (first time)|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
-|771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|
+|771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/977.SquaresofaSortedArray.py)|Easy|
