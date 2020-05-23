@@ -39,6 +39,7 @@ LeetCode problems solutions.
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |525.|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/ContiguousArray.py)|Medium|
+|535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement thro `list` (first time)|
