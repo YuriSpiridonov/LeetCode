@@ -21,7 +21,7 @@ LeetCode problems solutions.
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
-|74.|[Search a 2D Matrix](https://leetcode.com/problems/plus-one/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
+|74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
 |118.|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
 |119.|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
