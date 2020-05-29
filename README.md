@@ -32,6 +32,9 @@ LeetCode problems solutions.
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReSub.py)|Easy|`Re.sub` and s == reversed s|
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.py)|Medium|
+|153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(forLoop).py)|Medium|`For loop`|
+|153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(BinarySearch).py)|Medium|`Binary Search`|
+|154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
 |155.|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MinStack.py)|Easy|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
 |201.|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.py)|Medium|
