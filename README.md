@@ -45,6 +45,7 @@ LeetCode problems solutions.
 |274.|[H-Index](https://leetcode.com/problems/h-index/)|[Python](/Medium/274.H-Index.py)|Medium|
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
+|451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(Dict).py)|Easy|`Dictionary`|
