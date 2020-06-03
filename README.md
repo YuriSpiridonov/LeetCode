@@ -54,6 +54,7 @@ LeetCode problems solutions.
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
+|609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement thro `list` (first time)|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
