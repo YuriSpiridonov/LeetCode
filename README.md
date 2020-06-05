@@ -6,7 +6,7 @@ LeetCode problems solutions.
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.TwoSum.py)|Easy|
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
-|9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting integer to string|
+|9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
 |11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|`Two pointers`|
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/14.LongestCommonPrefix.py)|Easy||
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
