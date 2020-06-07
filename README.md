@@ -46,6 +46,7 @@ LeetCode problems solutions.
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
+|378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
