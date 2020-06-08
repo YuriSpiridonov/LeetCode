@@ -62,6 +62,7 @@ LeetCode problems solutions.
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
+|929.|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](/Easy/929.UniqueEmailAddresses.py)|Easy|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/977.SquaresofaSortedArray.py)|Easy|
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(replace).py)|Easy|`.replace()`|
