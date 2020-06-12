@@ -16,6 +16,7 @@ LeetCode problems solutions.
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/35.SearchInsertPosition.py)|Easy|`Binary Search`|
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/41.FirstMissingPositive.py)|Hard||
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
+|50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](/Medium/50.Pow(x%2Cn).py)|Medium|`Recursion`|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
 |54.|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/54.SpiralMatrix.py)|Medium|
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
