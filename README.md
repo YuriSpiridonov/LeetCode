@@ -39,6 +39,7 @@ LeetCode problems solutions.
 |153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(BinarySearch).py)|Medium|`Binary Search`|
 |154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
 |155.|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MinStack.py)|Easy|
+|162.|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](/Medium/162.FindPeakElement.py)|Medium|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
 |201.|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.py)|Medium|
 |202.|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/HappyHumber.py)|Easy|
@@ -63,10 +64,13 @@ LeetCode problems solutions.
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
+|852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
+|852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |929.|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](/Easy/929.UniqueEmailAddresses.py)|Easy|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/977.SquaresofaSortedArray.py)|Easy|
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
+|1095.|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Python](/Hard/1095.FindinMountainArray.py)|Hard|`Binary Search`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(replace).py)|Easy|`.replace()`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(re.sub).py)|Easy|`re.sub`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(join).py)|Easy|`.join()`|
