@@ -96,5 +96,12 @@ LeetCode problems solutions.
 |1430.|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/CheckIfaStringIsaValidSequencefromRoottoLeavesPathinaBinaryTree.py)|Medium|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(dict).py)|Easy|`Dictionary`|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(set).py)|Easy|`Set`|
-|1450.|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](/Easy/1450.NumberofStudentsDoingHomeworkataGivenTime.py)|Easy|`enumerate`|
+|1446.|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](/Easy/1446.ConsecutiveCharacters.py)|Easy|`Two pointers`|
+|1450.|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](/Easy/1450.NumberofStudentsDoingHomeworkataGivenTime.py)|Easy|`Enumerate`|
+|1455.|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](/Easy/1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)|Easy|`Enumerate`|
+|1460.|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](/Easy/1460.MakeTwoArraysEqualbyReversingSub-arrays.py)|Easy||
+|1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
+|1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
+|1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
+|1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
 
