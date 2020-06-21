@@ -25,6 +25,11 @@ LeetCode problems solutions.
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](/Easy/67.AddBinary.py)|Easy||
 |74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(BubleSort).py)|Medium|`Buble Sort`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(SelectionSort).py)|Medium|`Selection Sort`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(InsertionSort).py)|Medium|`Insertion Sort`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(QuickSort).py)|Medium|`Quick Sort`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(MergeSort).py)|Medium|`Merge Sort`|
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
