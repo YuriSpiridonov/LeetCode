@@ -7,7 +7,7 @@ LeetCode problems solutions.
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
-|11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|`Two pointers`|
+|11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|`Two Pointers`|
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/14.LongestCommonPrefix.py)|Easy||
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
@@ -79,6 +79,9 @@ LeetCode problems solutions.
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
+|922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
+|922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
+|922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
 |929.|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](/Easy/929.UniqueEmailAddresses.py)|Easy|
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(BinarySearch).py)|Easy|`Binary Search` and rewrite `list`|
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(while).py)|Easy|`while` and rewrite `list`|
