@@ -98,6 +98,7 @@ LeetCode problems solutions.
 |1299.|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1299.ReplaceElementswithGreatestElementonRightSide.py)|Easy||
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
+|1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
 |1348.|[Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)|[Python](/Medium/1348.TweetCountsPerFrequency.py)|Medium|Too slow, need to resolve it|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(binarySearch).py)|Easy|`Binary Search`|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(nestedFor).py)|Easy|nested `for loop`|
@@ -118,4 +119,3 @@ LeetCode problems solutions.
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
-
