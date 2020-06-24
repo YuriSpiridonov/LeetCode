@@ -119,3 +119,4 @@ LeetCode problems solutions.
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
+|1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
