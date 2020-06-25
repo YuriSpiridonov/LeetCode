@@ -117,6 +117,9 @@ LeetCode problems solutions.
 |1460.|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](/Easy/1460.MakeTwoArraysEqualbyReversingSub-arrays.py)|Easy||
 |1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
+|1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory.py)|Medium|`Doubly Linked List`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
+
+
