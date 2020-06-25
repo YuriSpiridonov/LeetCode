@@ -91,3 +91,10 @@ class BrowserHistory:
     def forward(self, steps: int) -> str:
         self.position = min(self.length - 1, self.position + steps)
         return self.db[self.position]
+
+
+# Your BrowserHistory object will be instantiated and called as such:
+# obj = BrowserHistory(homepage)
+# obj.visit(url)
+# param_2 = obj.back(steps)
+# param_3 = obj.forward(steps)
