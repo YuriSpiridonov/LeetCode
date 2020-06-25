@@ -66,14 +66,14 @@
 """
 #Difficulty: Medium
 #71 / 71 test cases passed.
-#Runtime: 300 ms
-#Memory Usage: 16 MB
+#Runtime: 332 ms
+#Memory Usage: 16.2 MB
 
-#Runtime: 300 ms, faster than 63.78% of Python3 online submissions for Design Browser History.
-#Memory Usage: 16 MB, less than 100.00% of Python3 online submissions for Design Browser History.
+#Runtime: 332 ms, faster than 55.28% of Python3 online submissions for Design Browser History.
+#Memory Usage: 16.2 MB, less than 100.00% of Python3 online submissions for Design Browser History.
 
 class Node:
-    
+
     def __init__(self, homepage: str):
         self.homepage = homepage
         self.prev = None
@@ -82,40 +82,31 @@ class Node:
 class BrowserHistory:
 
     def __init__(self, homepage: str):
-        new_node = Node(homepage)
-        self.start_node = new_node
-        self.size = 1
-        self.history_size = 1
-
+        self.current = Node(homepage)
+        
     def visit(self, url: str) -> None:
-        n = self.start_node
-        i = 1
-        while i < self.size:
-            n = n.next
-            i += 1
         new_node = Node(url)
-        n.next = new_node
-        new_node.prev = n
-        self.size += 1
-        self.history_size = self.size
+        self.current.next = new_node
+        new_node.prev = self.current
+        self.current = new_node
 
     def back(self, steps: int) -> str:
-        n = self.start_node
-        step = 1
-        self.size = max(1, self.size - steps)
-        while step < self.size:
-            n = n.next
-            step += 1
-        return n.homepage
+        while steps >= 1:
+            steps -= 1
+            if self.current.prev is not None:
+                self.current = self.current.prev
+            else:
+                break
+        return self.current.homepage
 
     def forward(self, steps: int) -> str:
-        n = self.start_node
-        step = 1
-        self.size = min(self.history_size, self.size + steps)
-        while step < self.size:
-            n = n.next
-            step += 1
-        return n.homepage
+        while steps >= 1:
+            steps -= 1
+            if self.current.next is not None:
+                self.current = self.current.next
+            else:
+                break
+        return self.current.homepage
 
 
 # Your BrowserHistory object will be instantiated and called as such:
