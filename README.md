@@ -119,6 +119,7 @@ LeetCode problems solutions.
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory.py)|Medium|`Doubly Linked List`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory(Dictionary).py)|Medium|`Dictionary`|
+|1476.|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Python](/Medium/1476.SubrectangleQueries.py)|Medium|nested `for loop`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
