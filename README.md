@@ -109,6 +109,7 @@ LeetCode problems solutions.
 |1428.|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/LeftmostColumnwithatLeastaOne.py)|Medium|
 |1429.|[First Unique Number](https://leetcode.com/problems/first-unique-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/FirstUniqueNumber.py)|Medium|
 |1430.|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/CheckIfaStringIsaValidSequencefromRoottoLeavesPathinaBinaryTree.py)|Medium|
+|1431.|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](/Easy/1431.KidsWiththeGreatestNumberofCandies.py)|Easy|`List comprehension`|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(dict).py)|Easy|`Dictionary`|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(set).py)|Easy|`Set`|
 |1446.|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](/Easy/1446.ConsecutiveCharacters.py)|Easy|`Two pointers`|
