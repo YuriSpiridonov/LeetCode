@@ -4,6 +4,7 @@ LeetCode problems solutions.
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.TwoSum.py)|Easy|
+|2.|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](/Medium/2.AddTwoNumbers.py)|Medium|`Linked List` + brute force|
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
