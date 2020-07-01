@@ -61,6 +61,7 @@ LeetCode problems solutions.
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
+|450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
@@ -75,6 +76,8 @@ LeetCode problems solutions.
 |641.|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](/Medium/641.DesignCircularDeque.py)|Medium|Need to resolve without use of builtin functions (first time)|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
+|700.|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](/Easy/700.SearchinaBinarySearchTree.py)|Easy|`Binary Search Tree`, `Recursion`|
+|701.|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](/Medium/701.InsertintoaBinarySearchTree.py)|Medium|`Binary Search Tree`, `Recursion`|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
