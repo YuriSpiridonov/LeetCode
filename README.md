@@ -34,8 +34,9 @@ LeetCode problems solutions.
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
-|118.|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
-|119.|[ Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
+|104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Search Tree`, `Recursion`|
+|118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
+|119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
 |122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/BestTimetoBuyandSellStockII.py)|Easy|
 |124.|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/BinaryTreeMaximumPathSum.py)|Hard|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|`Two pointers` from start & end|
