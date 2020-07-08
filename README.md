@@ -26,7 +26,7 @@ LeetCode problems solutions.
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](/Easy/67.AddBinary.py)|Easy||
 |74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
-|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(BubleSort).py)|Medium|`Buble Sort`|
+|75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(BubleSort).py)|Medium|`Bubble Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(SelectionSort).py)|Medium|`Selection Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(InsertionSort).py)|Medium|`Insertion Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(QuickSort).py)|Medium|`Quick Sort`|
@@ -61,6 +61,7 @@ LeetCode problems solutions.
 |209.|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/Medium/209.MinimumSizeSubarraySum.py)|Medium|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
 |221.|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.py)|Medium|
+|226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
 |274.|[H-Index](https://leetcode.com/problems/h-index/)|[Python](/Medium/274.H-Index.py)|Medium|
