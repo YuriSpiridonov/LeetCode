@@ -40,6 +40,7 @@ LeetCode problems solutions.
 |100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](/Easy/100.SameTree.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |111.|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](/Easy/111.MinimumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
+|112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](/Easy/112.PathSum.py)|Easy|`Binary Tree`, `Recursion`|
 |118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
 |119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
 |122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/BestTimetoBuyandSellStockII.py)|Easy|
@@ -47,6 +48,7 @@ LeetCode problems solutions.
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|`Two pointers` from start & end|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReFindall.py)|Easy|`Re.findall` and left half == rev. right half|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReSub.py)|Easy|`Re.sub` and s == reversed s|
+|129.|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](/Medium/129.SumRoottoLeafNumbers.py)|Medium|`DFS`|
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
 |144.|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](/Medium/144.BinaryTreePreorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
 |145.|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](/Hard/145.BinaryTreePostorderTraversal.py)|Hard|`Binary Tree`, `Recursion`|
@@ -61,7 +63,9 @@ LeetCode problems solutions.
 |202.|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/HappyHumber.py)|Easy|
 |209.|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/Medium/209.MinimumSizeSubarraySum.py)|Medium|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
+|217.|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](/Easy/217.ContainsDuplicate(Dict).py)|Easy|`Dictionary`|
 |221.|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.py)|Medium|
+|222.|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](/Medium/222.CountCompleteTreeNodes.py)|Medium|`Recursion`|
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
@@ -93,6 +97,7 @@ LeetCode problems solutions.
 |701.|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](/Medium/701.InsertintoaBinarySearchTree.py)|Medium|`Binary Search Tree`, `Recursion`|
 |703.|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](/Easy/703.KthLargestElementinaStream.py)|Easy|brute force|
 |705.|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python](/Easy/705.DesignHashSet.py)|Easy|`list` as a set|
+|706.|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](/Easy/706.DesignHashMap.py)|Easy|`list`|
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
@@ -119,6 +124,7 @@ LeetCode problems solutions.
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
 |1299.|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1299.ReplaceElementswithGreatestElementonRightSide.py)|Easy||
+|1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|`DFS`|
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
 |1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
