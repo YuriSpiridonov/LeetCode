@@ -77,11 +77,13 @@ LeetCode problems solutions.
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
+|347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString(BruteForce).py)|Easy|Brute Force|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
-|432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.%20AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
+|429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
+|432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
@@ -93,6 +95,8 @@ LeetCode problems solutions.
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
+|589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|`Recursion`|
+|590.|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](/Easy/590.N-aryTreePostorderTraversal.py)|Easy|`Recursion`|
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
