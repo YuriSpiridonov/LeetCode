@@ -21,7 +21,7 @@
 #Memory Usage: 13.8 MB, less than 64.83% of Python3 online submissions for Valid Parentheses.
 
 class Solution:
-    def isValid(s) -> bool:
+    def isValid(self, s: str) -> bool:
         parentheses = {'(':')', '{':'}', '[':']'}
         stack = []
         for b in s: # take bracket 'b' from string 's'
