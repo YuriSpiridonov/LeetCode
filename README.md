@@ -41,6 +41,7 @@ LeetCode problems solutions.
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree.py)|Medium|`Binary Tree`, `Recursion`|
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree(2nd).py)|Medium|`Binary Tree`, `Recursion`, another valid. approach|
 |100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](/Easy/100.SameTree.py)|Easy|`Binary Tree` (preorder), `Recursion`|
+|102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](/Medium/102.BinaryTreeLevelOrderTraversal.py)|Medium|`BFS`, Overcode|
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |111.|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](/Easy/111.MinimumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](/Easy/112.PathSum.py)|Easy|`Binary Tree`, `Recursion`|
@@ -73,6 +74,7 @@ LeetCode problems solutions.
 |221.|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.py)|Medium|
 |222.|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](/Medium/222.CountCompleteTreeNodes.py)|Medium|`Recursion`|
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
+|230.|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/Medium/230.KthSmallestElementinaBST.py)|Medium|`Recursion`, inorder, brute force|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
@@ -169,3 +171,7 @@ LeetCode problems solutions.
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
 |1491.|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](/Easy/1491.AverageSalaryExcludingtheMinimumandMaximumSalary.py)|Easy||
 |1496.|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](/Easy/1496.PathCrossing.py)|Easy||
+|1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(List).py)|Easy|`List`|
+|1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(String).py)|Easy|Without conberting `String` into `List`|
+|1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](/Easy/1512.NumberofGoodPairs(Dict).py)|Easy|`Dictionary`|
+|1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](/Easy/1512.NumberofGoodPairs(For).py)|Easy|Nested `for` loops|
