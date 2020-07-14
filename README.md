@@ -1,5 +1,11 @@
 # LeetCode
-LeetCode problems solutions.
+![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
+![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
+![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
+<br>
+LeetCode problems solutions.<br>
+Description comming soon.
 
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
