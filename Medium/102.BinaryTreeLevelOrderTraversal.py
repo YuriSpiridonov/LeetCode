@@ -45,13 +45,7 @@ class Solution:
             for node in queue[depth]:
                 result[depth].append(node.val)
                 if node.left:
-                    if depth+1 not in queue:
-                        queue[depth+1] = [node.left]
-                    else:
-                        queue[depth+1].append(node.left)
+                    queue[depth+1] = queue.get(depth+1,[]).append(node.left)
                 if node.right:
-                    if depth+1 not in queue:
-                        queue[depth+1] = [node.right]
-                    else:
-                        queue[depth+1].append(node.right)
+                    queue[depth+1] = queue.get(depth+1,[]).append(node.right)
             depth += 1
