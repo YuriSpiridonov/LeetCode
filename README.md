@@ -52,6 +52,7 @@ It's an instrument for me to measure my grow in DSA.
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree(2nd).py)|Medium|`Binary Tree`, `Recursion`, another valid. approach|
 |100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](/Easy/100.SameTree.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](/Medium/102.BinaryTreeLevelOrderTraversal.py)|Medium|`BFS`, Overcode|
+|103.|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](/Medium/103.BinaryTreeZigzagLevelOrderTraversal.py)|Medium|`BFS`|
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |107.|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](/Easy/107.BinaryTreeLevelOrderTraversalII.py)|Easy|`BFS`|
 |111.|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](/Easy/111.MinimumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
@@ -73,6 +74,7 @@ It's an instrument for me to measure my grow in DSA.
 |154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
 |155.|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MinStack.py)|Easy|
 |162.|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](/Medium/162.FindPeakElement.py)|Medium|
+|173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
 |201.|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.py)|Medium|
 |202.|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/HappyHumber.py)|Easy|
@@ -163,7 +165,9 @@ It's an instrument for me to measure my grow in DSA.
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(nestedFor).py)|Easy|nested `for loop`|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(nestedForOptimized).py)|Easy|nested `for loop` with a `break`|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
+|1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
+|1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
 |1426.|[Counting Elements](https://leetcode.com/problems/counting-elements)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/CountingElements.py)|Easy|
 |1427.|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/PerformStringShifts.py)|Easy|
 |1428.|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/LeftmostColumnwithatLeastaOne.py)|Medium|
