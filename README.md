@@ -109,6 +109,7 @@ It's an instrument for me to measure my grow in DSA.
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
+|501.|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](/Easy/501.FindModeinBinarySearchTree.py)|Easy|`Recursion`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(Dict).py)|Easy|`Dictionary`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(TwoVar).py)|Easy|Used two variables n1 & n2|
