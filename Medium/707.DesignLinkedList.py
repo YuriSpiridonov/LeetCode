@@ -76,12 +76,8 @@ class MyLinkedList:
         """
         node = self.head
         for i in range(index):
-            if not node:
-                return -1
             node = node.next
-        if not node:
-            return -1
-        return node.val
+        return node.val if node else -1
 
     def addAtHead(self, val: int) -> None:
         """
@@ -94,8 +90,7 @@ class MyLinkedList:
             self.head = Node(val)
             self.head.next = old_head
         else:
-            node = self.head
-            node.val = val
+            self.head.val = val
 
     def addAtTail(self, val: int) -> None:
         """
@@ -104,8 +99,7 @@ class MyLinkedList:
         node = self.head
         while node.next:
             node = node.next
-        new_node = Node(val)
-        node.next = new_node
+        node.next = Node(val)
 
     def addAtIndex(self, index: int, val: int) -> None:
         """
