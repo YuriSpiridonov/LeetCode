@@ -83,6 +83,8 @@ It's an instrument for me to measure my grow in DSA.
 |202.|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/HappyHumber.py)|Easy|
 |203.|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](/Easy/203.RemoveLinkedListElements.py)|Easy|`Linked List`|
 |205.|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](/Easy/205.IsomorphicStrings.py)|Easy|`Dictionary`|
+|206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](/Easy/206.ReverseLinkedList.py)|Easy|`Linked List`, brute force|
+|206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](/Easy/206.ReverseLinkedList(rightappr).py)|Easy|`Linked List`|
 |208.|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](/Medium/208.ImplementTrie(PrefixTree).py)|Medium|`Trie`, 1st time all by myself|
 |209.|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/Medium/209.MinimumSizeSubarraySum.py)|Medium|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
@@ -94,6 +96,7 @@ It's an instrument for me to measure my grow in DSA.
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
 |230.|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/Medium/230.KthSmallestElementinaBST.py)|Medium|`Recursion`, inorder, brute force|
 |232.|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](/Easy/232.ImplementQueueusingStacks.py)|Easy|`List`|
+|234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|`Linked List`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
