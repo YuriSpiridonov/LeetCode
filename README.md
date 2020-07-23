@@ -103,6 +103,8 @@ It's an instrument for me to measure my grow in DSA.
 |274.|[H-Index](https://leetcode.com/problems/h-index/)|[Python](/Medium/274.H-Index.py)|Medium|
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
+|295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(bruteforce).py)|Hard|Brute Force|
+|295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(binarySearch).py)|Hard|`Binary Search`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
 |347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
