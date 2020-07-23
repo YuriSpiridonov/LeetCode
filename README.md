@@ -10,6 +10,7 @@ It's an instrument for me to measure my grow in DSA.
 <br><br>
 *P.S. If you like this, please leave me a star.* ★
 
+<img align="right" alt="Cat" src="https://github.com/YuriSpiridonov/YuriSpiridonov/blob/master/logos/cat_111.png" />
 
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
