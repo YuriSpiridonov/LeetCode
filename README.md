@@ -180,9 +180,15 @@ It's an instrument for me to measure my grow in DSA.
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(binarySearch).py)|Easy|`Binary Search`|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(nestedFor).py)|Easy|nested `for loop`|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(nestedForOptimized).py)|Easy|nested `for loop` with a `break`|
+|1352.|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Python](/Medium/1352.ProductoftheLastKNumbers(BruteForce).py)|Medium|Brute Force|
+|1352.|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Python](/Medium/1352.ProductoftheLastKNumbers(MySolution).py)|Medium|Optimized, but overcode|
+|1352.|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Python](/Medium/1352.ProductoftheLastKNumbers(Revisited).py)|Medium||
+|1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders(BruteForce).py)|Medium|Brute Force|
+|1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders.py)|Medium|`Dictionary`|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
 |1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
+|1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
 |1426.|[Counting Elements](https://leetcode.com/problems/counting-elements)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/CountingElements.py)|Easy|
 |1427.|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/PerformStringShifts.py)|Easy|
