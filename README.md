@@ -135,6 +135,7 @@ It's an instrument for me to measure my grow in DSA.
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
+|637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |641.|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](/Medium/641.DesignCircularDeque.py)|Medium|Need to resolve without use of builtin functions (first time)|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
@@ -160,6 +161,7 @@ It's an instrument for me to measure my grow in DSA.
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(whilePop).py)|Easy|`while` and `.pop()`|
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST.py)|Easy|`Binary Search Tree`|
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST(Optimized).py)|Easy|`Binary Search Tree`, Optimized solution|
+|965.|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](/Easy/965.UnivaluedBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](/Easy/977.SquaresofaSortedArray.py)|Easy|
 |981.|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](/Medium/981.TimeBasedKey-ValueStore.py)|Medium|`Binary Search`|
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
