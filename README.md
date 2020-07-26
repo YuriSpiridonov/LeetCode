@@ -115,6 +115,7 @@ It's an instrument for me to measure my grow in DSA.
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
+|441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
@@ -219,3 +220,5 @@ It's an instrument for me to measure my grow in DSA.
 |1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(String).py)|Easy|Without conberting `String` into `List`|
 |1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](/Easy/1512.NumberofGoodPairs(Dict).py)|Easy|`Dictionary`|
 |1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](/Easy/1512.NumberofGoodPairs(For).py)|Easy|Nested `for` loops|
+|1518.|[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](/Easy/1518.WaterBottles.py)|Easy|`While` loop|
+|1523.|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](/Easy/1523.CountOddNumbersinanIntervalRange.py)|Easy||
