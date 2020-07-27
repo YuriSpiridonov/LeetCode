@@ -52,6 +52,7 @@ It's an instrument for me to measure my grow in DSA.
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree.py)|Medium|`Binary Tree`, `Recursion`|
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree(2nd).py)|Medium|`Binary Tree`, `Recursion`, another valid. approach|
 |100.|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](/Easy/100.SameTree.py)|Easy|`Binary Tree` (preorder), `Recursion`|
+|101.|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Python](/Easy/101.SymmetricTree.py)|Easy|`BFS`, iteratively|
 |102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](/Medium/102.BinaryTreeLevelOrderTraversal.py)|Medium|`BFS`, Overcode|
 |103.|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](/Medium/103.BinaryTreeZigzagLevelOrderTraversal.py)|Medium|`BFS`|
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
@@ -138,6 +139,7 @@ It's an instrument for me to measure my grow in DSA.
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
 |637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |641.|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](/Medium/641.DesignCircularDeque.py)|Medium|Need to resolve without use of builtin functions (first time)|
+|653.|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](/Easy/653.TwoSumIV-InputisaBST.py)|Easy|Brute Force - resolve|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
