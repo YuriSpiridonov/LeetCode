@@ -129,6 +129,7 @@ It's an instrument for me to measure my grow in DSA.
 |513.|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](/Medium/513.FindBottomLeftTreeValue.py)|Medium|`BFS`|
 |515.|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](/Medium/515.FindLargestValueinEachTreeRow.py)|Medium|`BFS`|
 |525.|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/ContiguousArray.py)|Medium|
+|530.|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](/Easy/530.MinimumAbsoluteDifferenceinBST.py)|Easy|Bad solution - resolve|
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |559.|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](/Easy/559.MaximumDepthofN-aryTree.py)|Easy|`BFS`|
