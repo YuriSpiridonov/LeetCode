@@ -4,9 +4,7 @@
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
 <br><br>
-I’m self-taught developer learning Data Structures and Algorithms in this repository I provide my Python solutions of LeetCode problems. 
-Main goal of this repository is personal.
-It's an instrument for me to measure my grow in DSA.
+In this repository provided my Python solutions of LeetCode problems. 
 <br><br>
 *P.S. If you like this, please leave me a star.* ★
 
