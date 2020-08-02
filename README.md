@@ -39,6 +39,7 @@ It's an instrument for me to measure my grow in DSA.
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](/Easy/67.AddBinary.py)|Easy||
+|73.|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](/Medium/73.SetMatrixZeroes.py)|Medium|`set()`|
 |74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(BubleSort).py)|Medium|`Bubble Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(SelectionSort).py)|Medium|`Selection Sort`|
@@ -117,6 +118,7 @@ It's an instrument for me to measure my grow in DSA.
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
+|442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Medium/442.FindAllDuplicatesinanArray.py)|Medium|`set()`|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
