@@ -95,6 +95,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |222.|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](/Medium/222.CountCompleteTreeNodes.py)|Medium|`Recursion`|
 |225.|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](/Easy/225.ImplementStackusingQueues.py)|Easy|`List`|
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
+|228.|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](/Medium/228.SummaryRanges.py)|Medium|`Two Pointers`|
 |230.|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/Medium/230.KthSmallestElementinaBST.py)|Medium|`Recursion`, inorder, brute force|
 |232.|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](/Easy/232.ImplementQueueusingStacks.py)|Easy|`List`|
 |234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|`Linked List`|
@@ -106,6 +107,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(bruteforce).py)|Hard|Brute Force|
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(binarySearch).py)|Hard|`Binary Search`|
+|342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
+|342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
 |347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
