@@ -62,6 +62,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |117.|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](/Medium/117.PopulatingNextRightPointersinEachNodeII.py)|Medium|`BFS`, same as 116|
 |118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
 |119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/119.PascalsTriangleII.py)|Easy|
+|120.|[Triangle](https://leetcode.com/problems/triangle/)|[Python](/Medium/120.Triangle.py)|Medium|
 |122.|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/BestTimetoBuyandSellStockII.py)|Easy|
 |124.|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%205/BinaryTreeMaximumPathSum.py)|Hard|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|`Two pointers` from start & end|
@@ -88,6 +89,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](/Easy/206.ReverseLinkedList(rightappr).py)|Easy|`Linked List`|
 |208.|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](/Medium/208.ImplementTrie(PrefixTree).py)|Medium|`Trie`, 1st time all by myself|
 |209.|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/Medium/209.MinimumSizeSubarraySum.py)|Medium|
+|211.|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](/Medium/211.AddandSearchWord-Datastructuredesign.py)|Medium|Need to resolve|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
 |217.|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](/Easy/217.ContainsDuplicate(Dict).py)|Easy|`Dictionary`|
 |219.|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](/Easy/219.ContainsDuplicateII.py)|Easy|`Dictionary`, `enumerate`|
