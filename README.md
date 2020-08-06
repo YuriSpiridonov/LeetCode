@@ -190,6 +190,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
 |1299.|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1299.ReplaceElementswithGreatestElementonRightSide.py)|Easy||
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|`DFS`|
+|1313.|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](/Easy/1313.DecompressRun-LengthEncodedList.py)|Easy||
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
 |1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
