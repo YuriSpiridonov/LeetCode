@@ -187,10 +187,12 @@ In this repository provided my Python solutions of LeetCode problems.
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(join).py)|Easy|`.join()`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
+|1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
 |1299.|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1299.ReplaceElementswithGreatestElementonRightSide.py)|Easy||
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|`DFS`|
 |1313.|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](/Easy/1313.DecompressRun-LengthEncodedList.py)|Easy||
+|1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
 |1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
@@ -228,6 +230,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1476.|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Python](/Medium/1476.SubrectangleQueries.py)|Medium|nested `for loop`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
+|1486.|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](/Easy/1486.XOROperationinanArray.py)|Easy||
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
 |1491.|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](/Easy/1491.AverageSalaryExcludingtheMinimumandMaximumSalary.py)|Easy||
 |1496.|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](/Easy/1496.PathCrossing.py)|Easy||
