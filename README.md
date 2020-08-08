@@ -108,6 +108,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(bruteforce).py)|Hard|Brute Force|
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(binarySearch).py)|Hard|`Binary Search`|
+|297.|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](/Hard/297.SerializeandDeserializeBinaryTree.py)|Hard|`BFS`|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
@@ -119,6 +120,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
+|437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Medium/437.PathSumIII.py)|Medium|`DFS`|
 |441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
 |442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Medium/442.FindAllDuplicatesinanArray.py)|Medium|`set()`|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
@@ -206,6 +208,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders(BruteForce).py)|Medium|Brute Force|
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders.py)|Medium|`Dictionary`|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
+|1380.|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](/Easy/1380.LuckyNumbersinaMatrix.py)|Easy|Nested `for` loops|
 |1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
