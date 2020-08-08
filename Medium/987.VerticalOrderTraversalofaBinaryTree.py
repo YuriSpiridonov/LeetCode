@@ -65,8 +65,6 @@
 
 class Solution:
 
-class Solution:
-
     def verticalTraversal(self, root: TreeNode) -> List[List[int]]:
         x = y = 0
         result = []
