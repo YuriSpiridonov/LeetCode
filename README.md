@@ -77,6 +77,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
 |155.|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MinStack.py)|Easy|
 |162.|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](/Medium/162.FindPeakElement.py)|Medium|
+|171.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](/Easy/171.ExcelSheetColumnNumber.py)|Easy||
 |173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
 |199.|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/Medium/199.BinaryTreeRightSideView.py)|Medium|`BFS`|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
@@ -123,6 +124,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Medium/437.PathSumIII.py)|Medium|`DFS`|
 |441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
 |442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Medium/442.FindAllDuplicatesinanArray.py)|Medium|`set()`|
+|449.|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](/Medium/449.SerializeandDeserializeBST.py)|Medium|Complicated solution - resolve|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
