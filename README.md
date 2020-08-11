@@ -190,6 +190,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(replace).py)|Easy|`.replace()`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(re.sub).py)|Easy|`re.sub`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(join).py)|Easy|`.join()`|
+|1122.|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](/Easy/1122.RelativeSortArray.py)|Easy||
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
