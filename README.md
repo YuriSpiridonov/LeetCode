@@ -217,6 +217,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
+|1423.|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](/Medium/1423.MaximumPointsYouCanObtainfromCards.py)|Medium|`Sliding Window`|
 |1426.|[Counting Elements](https://leetcode.com/problems/counting-elements)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/CountingElements.py)|Easy|
 |1427.|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/PerformStringShifts.py)|Easy|
 |1428.|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/LeftmostColumnwithatLeastaOne.py)|Medium|
