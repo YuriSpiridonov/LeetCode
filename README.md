@@ -1,5 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-242%2F1548-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
