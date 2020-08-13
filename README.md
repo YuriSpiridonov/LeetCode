@@ -194,6 +194,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
+|1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
 |1299.|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1299.ReplaceElementswithGreatestElementonRightSide.py)|Easy||
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|`DFS`|
