@@ -27,8 +27,8 @@
 #Runtime: 48 ms
 #Memory Usage: 16.4 MB
 
-#Runtime: 48 ms, faster than 93.97% of Python3 online submissions for Maximum Points You Can Obtain from Cards.
-#Memory Usage: 16.4 MB, less than 13.23% of Python3 online submissions for Maximum Points You Can Obtain from Cards.
+#Runtime: 48 ms, faster than 93.97% of Python3 online submissions for Iterator for Combination.
+#Memory Usage: 16.4 MB, less than 13.23% of Python3 online submissions for Iterator for Combination.
 
 class CombinationIterator:
 
