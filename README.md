@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-242%2F1548-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-243%2F1548-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -120,6 +120,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString(BruteForce).py)|Easy|Brute Force|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
+|409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Medium/437.PathSumIII.py)|Medium|`DFS`|
