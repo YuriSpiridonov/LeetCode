@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-247%2F1549-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-250%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -54,6 +54,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(MergeSort).py)|Medium|`Merge Sort`|
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
+|83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](/Easy/83.RemoveDuplicatesfromSortedList.py)|Easy|`Linked List`|
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
 |94.|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](/Medium/94.BinaryTreeInorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree.py)|Medium|`Binary Tree`, `Recursion`|
@@ -111,6 +112,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |230.|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/Medium/230.KthSmallestElementinaBST.py)|Medium|`Recursion`, inorder, brute force|
 |232.|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](/Easy/232.ImplementQueueusingStacks.py)|Easy|`List`|
 |234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|`Linked List`|
+|237.|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](/Easy/237.DeleteNodeinaLinkedList.py)|Easy|`Linked List`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
