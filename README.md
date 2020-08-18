@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-253%2F1553-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-255%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -185,6 +185,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
+|890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
 |900.|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](/Medium/900.RLEIterator.py)|Medium||
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
@@ -197,6 +198,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST(Optimized).py)|Easy|`Binary Search Tree`, Optimized solution|
 |946.|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](/Medium/946.ValidateStackSequences.py)|Medium|`Stack`|
 |965.|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](/Easy/965.UnivaluedBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
+|967.|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](/Medium/967.NumbersWithSameConsecutiveDifferences.py)|Medium|`DFS`|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](/Easy/977.SquaresofaSortedArray.py)|Easy|
 |981.|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](/Medium/981.TimeBasedKey-ValueStore.py)|Medium|`Binary Search`|
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
