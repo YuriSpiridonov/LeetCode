@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-255%2F1553-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-257%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -111,6 +111,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |225.|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](/Easy/225.ImplementStackusingQueues.py)|Easy|`List`|
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
 |228.|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](/Medium/228.SummaryRanges.py)|Medium|`Two Pointers`|
+|229.|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](/Medium/229.MajorityElementII(BruteForce).py)|Medium|Brute Force|
+|229.|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](/Medium/229.MajorityElementII.py)|Medium|a bit optimized|
 |230.|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Python](/Medium/230.KthSmallestElementinaBST.py)|Medium|`Recursion`, inorder, brute force|
 |232.|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](/Easy/232.ImplementQueueusingStacks.py)|Easy|`List`|
 |234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|`Linked List`|
@@ -178,6 +180,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |707.|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](/Medium/707.DesignLinkedList.py)|Medium|`Linked List`, first time|
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
+|824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Easy/824.GoatLatin.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage(reverse).py)|Easy|`.reverse()`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
