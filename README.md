@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-257%2F1553-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-258%2F1554-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -81,6 +81,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReSub.py)|Easy|`Re.sub` and s == reversed s|
 |129.|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](/Medium/129.SumRoottoLeafNumbers.py)|Medium|`DFS`|
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
+|143.|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](/Medium/143.ReorderList.py)|Medium|`Linked List`, `Stack`|
 |144.|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](/Medium/144.BinaryTreePreorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
 |145.|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](/Hard/145.BinaryTreePostorderTraversal.py)|Hard|`Binary Tree`, `Recursion`|
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.py)|Medium|
