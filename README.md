@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-258%2F1554-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-259%2F1555-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -191,6 +191,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
 |900.|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](/Medium/900.RLEIterator.py)|Medium||
+|905.|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](/Easy/905.SortArrayByParity.py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
@@ -218,6 +219,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
 |1161.|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](/Medium/1161.MaximumLevelSumofaBinaryTree.py)|Medium|`BFS`|
+|1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
