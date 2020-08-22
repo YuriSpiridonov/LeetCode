@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-259%2F1555-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-260%2F1555-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -148,6 +148,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
+|497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |501.|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](/Easy/501.FindModeinBinarySearchTree.py)|Easy|`Recursion`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
