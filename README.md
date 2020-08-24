@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-261%2F1563-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-265%2F1563-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -280,3 +280,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1523.|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](/Easy/1523.CountOddNumbersinanIntervalRange.py)|Easy||
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(List).py)|Easy|`List`|
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(String).py)|Easy|`String`|
+|1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(Stack).py)|Easy|`Stack`|
+|1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(string).py)|Easy|`String` in-place|
+|1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
+|1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
+|1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
