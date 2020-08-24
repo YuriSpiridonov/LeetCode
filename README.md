@@ -285,3 +285,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
+
+
+<div align="right">
+    <b><a href="#introduction">Back to Top</a></b>
+</div>
