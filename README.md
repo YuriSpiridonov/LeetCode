@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-265%2F1563-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-266%2F1563-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -207,6 +207,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |967.|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](/Medium/967.NumbersWithSameConsecutiveDifferences.py)|Medium|`DFS`|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](/Easy/977.SquaresofaSortedArray.py)|Easy|
 |981.|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](/Medium/981.TimeBasedKey-ValueStore.py)|Medium|`Binary Search`|
+|983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](https://github.com/YuriSpiridonov/August-LeetCoding-Challenge-2020/blob/master/Week%204/983.MinimumCostForTickets.py)|Medium|Googled soln|
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Hard/1032.StreamofCharacters.py)|Hard|`Trie`|
