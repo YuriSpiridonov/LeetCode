@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-267%2F1563-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-270%2F1564-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -141,6 +141,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Medium/435.Non-overlappingIntervals.py)|Medium|`lambda`|
+|436.|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Python](/Medium/436.FindRightInterval.py)|Medium|Brute Force|
 |437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Medium/437.PathSumIII.py)|Medium|`DFS`|
 |441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
 |442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Medium/442.FindAllDuplicatesinanArray.py)|Medium|`set()`|
@@ -244,6 +245,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders(BruteForce).py)|Medium|Brute Force|
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders.py)|Medium|`Dictionary`|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
+|1379.|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](/Medium/1379.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree(iteratively).py)|Medium|`Stack`, iteratively|
+|1379.|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](/Medium/1379.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree(recursion).py)|Medium|`DFS`, recursion|
 |1380.|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](/Easy/1380.LuckyNumbersinaMatrix.py)|Easy|Nested `for` loops|
 |1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
@@ -282,6 +285,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1523.|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](/Easy/1523.CountOddNumbersinanIntervalRange.py)|Easy||
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(List).py)|Easy|`List`|
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(String).py)|Easy|`String`|
+|1539.|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python](/Easy/1539.KthMissingPositiveNumber.py)|Easy|`List`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(Stack).py)|Easy|`Stack`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(string).py)|Easy|`String` in-place|
 |1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
