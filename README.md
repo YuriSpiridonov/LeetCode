@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-277%2F1564-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-278%2F1569-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -208,6 +208,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST.py)|Easy|`Binary Search Tree`|
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST(Optimized).py)|Easy|`Binary Search Tree`, Optimized solution|
 |946.|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](/Medium/946.ValidateStackSequences.py)|Medium|`Stack`|
+|952.|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](/Hard/952.LargestComponentSizebyCommonFactor.py)|Hard|Googled soln|
 |965.|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](/Easy/965.UnivaluedBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |967.|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](/Medium/967.NumbersWithSameConsecutiveDifferences.py)|Medium|`DFS`|
 |969.|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](/Medium/969.PancakeSorting.py)|Medium|sort|
