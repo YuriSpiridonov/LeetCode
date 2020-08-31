@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-278%2F1569-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-280%2F1569-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -257,6 +257,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1379.|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](/Medium/1379.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree(recursion).py)|Medium|`DFS`, recursion|
 |1380.|[Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|[Python](/Easy/1380.LuckyNumbersinaMatrix.py)|Easy|Nested `for` loops|
 |1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
+|1387.|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Python](/Medium/1387.SortIntegersbyThePowerValue.py)|Medium||
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
@@ -299,6 +300,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
+|1566.|[Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)|[Python](/Easy/1566.DetectPatternofLengthMRepeatedKorMoreTimes.py)|Easy||
 
 
 <div align="right">
