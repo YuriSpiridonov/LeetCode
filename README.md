@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-285%2F1569-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-287%2F1569-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 ![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
@@ -107,6 +107,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
 |217.|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](/Easy/217.ContainsDuplicate(Dict).py)|Easy|`Dictionary`|
 |219.|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](/Easy/219.ContainsDuplicateII.py)|Easy|`Dictionary`, `enumerate`|
+|220.|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](/Medium/220.ContainsDuplicateIII.py)|Medium|`Two pointers`?|
 |221.|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/MaximalSquare.py)|Medium|
 |222.|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](/Medium/222.CountCompleteTreeNodes.py)|Medium|`Recursion`|
 |225.|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](/Easy/225.ImplementStackusingQueues.py)|Easy|`List`|
@@ -187,6 +188,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
+|817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents(set).py)|Medium|`Set`|
+|817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents.py)|Medium|`List`, 35 times slower|
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Easy/824.GoatLatin.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage(reverse).py)|Easy|`.reverse()`|
