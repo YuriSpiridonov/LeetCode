@@ -315,3 +315,6 @@ In this repository provided my Python solutions of LeetCode problems.
 <div align="right">
     <b><a href="#introduction">Back to Top</a></b>
 </div>
+
+## License
+The code is open-source and licensed under the [MIT license](/LICENSE).
