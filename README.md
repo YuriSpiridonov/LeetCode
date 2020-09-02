@@ -313,7 +313,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 
 <div align="right">
-    <b><a href="#introduction">Back to Top</a></b>
+    <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
 </div>
 
 ## License
