@@ -3,7 +3,6 @@
 ![Problems Solved](https://img.shields.io/badge/problems%20solved-287%2F1569-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
-![Build](https://img.shields.io/badge/build-Passing-brightgreen.svg)&nbsp;
 <br><br>
 ## Introduction
 In this repository provided my Python solutions of LeetCode problems. 
@@ -36,7 +35,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/34.FindFirstandLastPositionofElementinSortedArray.py)|Medium|
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/35.SearchInsertPosition.py)|Easy|`Binary Search`|
 |36.|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/36.ValidSudoku.py)|Medium|Brute Force, `set`, `list`|
-|41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/41.FirstMissingPositive.py)|Hard||
+|41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/Hard/41.FirstMissingPositive.py)|Hard||
+|46.|[Permutations](https://leetcode.com/problems/permutations/)|[Python](/Medium/46.Permutations.py)|Medium|`Itertools`|
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](/Medium/50.Pow(x%2Cn).py)|Medium|`Recursion`|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
@@ -134,6 +134,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
+|384.|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](/Medium/384.ShuffleanArray.py)|Medium|`random.sample()`|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString(BruteForce).py)|Easy|Brute Force|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
@@ -149,6 +150,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |449.|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](/Medium/449.SerializeandDeserializeBST.py)|Medium|Complicated solution - resolve|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
+|459.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](/Easy/459.RepeatedSubstringPattern.py)|Easy||
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Medium/470.ImplementRand10()UsingRand7().py)|Medium|'Invented the wheel'|
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
