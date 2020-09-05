@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-291%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-292%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -253,6 +253,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
 |1325.|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](/Medium/1325.DeleteLeavesWithaGivenValue.py)|Medium|`DFS`, `recursion`|
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
+|1338.|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Python](/Medium/1338.ReduceArraySizetoTheHalf.py)|Medium|`Dictionary`, `Enumerate`|
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
 |1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
 |1348.|[Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)|[Python](/Medium/1348.TweetCountsPerFrequency.py)|Medium|Too slow, need to resolve it|
