@@ -13,6 +13,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2020:
 - [April LeetCoding Challenge](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge) - Finished
 - [August LeetCoding Challenge](https://github.com/YuriSpiridonov/August-LeetCoding-Challenge-2020) - Finished
+- [September LeetCoding Challenge](https://github.com/YuriSpiridonov/September-LeetCoding-Challenge-2020) - In progress
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
