@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-301%2F1580-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-302%2F1581-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -87,6 +87,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |145.|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](/Hard/145.BinaryTreePostorderTraversal.py)|Hard|`Binary Tree`, `Recursion`|
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.py)|Medium|
 |150.|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](/Medium/150.EvaluateReversePolishNotation.py)|Medium|`Stack`|
+|152.|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/Medium/152.MaximumProductSubarray.py)|Medium|`DP`|
 |153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(forLoop).py)|Medium|`For loop`|
 |153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(BinarySearch).py)|Medium|`Binary Search`|
 |154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
