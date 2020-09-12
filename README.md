@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-302%2F1581-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-303%2F1581-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -108,6 +108,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |209.|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Python](/Medium/209.MinimumSizeSubarraySum.py)|Medium|
 |211.|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](/Medium/211.AddandSearchWord-Datastructuredesign.py)|Medium|Need to resolve|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|`sorted()`|
+|216.|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](/Medium/216.CombinationSumIII.py)|Medium|`Backtracking`|
 |217.|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](/Easy/217.ContainsDuplicate(Dict).py)|Easy|`Dictionary`|
 |219.|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](/Easy/219.ContainsDuplicateII.py)|Easy|`Dictionary`, `enumerate`|
 |220.|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](/Medium/220.ContainsDuplicateIII.py)|Medium|`Two pointers`?|
