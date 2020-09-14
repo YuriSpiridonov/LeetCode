@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-304%2F1585-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-305%2F1585-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -97,6 +97,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Medium/165.CompareVersionNumbers.py)|Medium|
 |171.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](/Easy/171.ExcelSheetColumnNumber.py)|Easy||
 |173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
+|198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Easy/198.HouseRobber.py)|Easy||
 |199.|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/Medium/199.BinaryTreeRightSideView.py)|Medium|`BFS`|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
 |201.|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.py)|Medium|
