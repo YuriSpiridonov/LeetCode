@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-306%2F1585-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-307%2F1585-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -152,6 +152,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Easy/412.FizzBuzz.py)|Easy||
+|421.|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python](/Medium/421.MaximumXORofTwoNumbersinanArray.py)|Medium|googled soln|
 |429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Medium/435.Non-overlappingIntervals.py)|Medium|`lambda`|
