@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-311%2F1595-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-312%2F1595-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -249,6 +249,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1041.|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](/Medium/1041.RobotBoundedInCircle.py)|Medium|`Dictionary`|
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
 |1047.|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python](/Easy/1047.RemoveAllAdjacentDuplicatesInString.py)|Easy|Brute force - resolve|
+|1094.|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](/Medium/1094.CarPooling.py)|Medium||
 |1095.|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Python](/Hard/1095.FindinMountainArray.py)|Hard|`Binary Search`|
 |1103.|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python](/Easy/1103.DistributeCandiestoPeople.py)|Easy||
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(replace).py)|Easy|`.replace()`|
