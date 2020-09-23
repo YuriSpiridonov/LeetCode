@@ -70,7 +70,7 @@ class Solution:
                 else:
                     start = 0
                     tank = 0
-            elif start and tank > cost[i]:
+            else:
                 tank = tank - cost[i] + gas[i]         
         for j in range(len(gas[:i])):
             tank = tank - cost[j] + gas[j]
