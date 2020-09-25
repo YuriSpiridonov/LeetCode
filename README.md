@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-316%2F1597-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-317%2F1597-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -100,6 +100,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Medium/165.CompareVersionNumbers.py)|Medium|
 |171.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](/Easy/171.ExcelSheetColumnNumber.py)|Easy||
 |173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
+|179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Medium/179.LargestNumber.py)|Medium|`Bubble sort`|
 |198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Easy/198.HouseRobber.py)|Easy||
 |199.|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/Medium/199.BinaryTreeRightSideView.py)|Medium|`BFS`|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
@@ -339,6 +340,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
 |1566.|[Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)|[Python](/Easy/1566.DetectPatternofLengthMRepeatedKorMoreTimes.py)|Easy||
+|1572.|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Python](/Easy/1572.MatrixDiagonalSum.py)|Easy||
 |1576.|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Python](/Easy/1576.ReplaceAll%3F'stoAvoidConsecutiveRepeatingCharacters.py)|Easy|Fast but awful soln.|
 |1582.|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](/Easy/1582.SpecialPositionsinaBinaryMatrix.py)|Easy||
 |1588.|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](/Easy/1588.SumofAllOddLengthSubarrays.py)|Easy|`Two Pointers`|
