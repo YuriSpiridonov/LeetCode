@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-317%2F1597-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-320%2F1597-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -170,6 +170,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |459.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](/Easy/459.RepeatedSubstringPattern.py)|Easy||
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Medium/470.ImplementRand10()UsingRand7().py)|Medium|'Invented the wheel'|
+|495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Medium/495.TeemoAttacking.py)|Medium||
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
@@ -209,6 +210,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |763.|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](/Medium/763.PartitionLabels(bruteforce).py)|Medium|Brute Force - resolve|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
+|807.|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](/Medium/807.MaxIncreasetoKeepCitySkyline.py)|Medium||
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents(set).py)|Medium|`Set`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents.py)|Medium|`List`, 35 times slower|
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Easy/824.GoatLatin.py)|Easy||
@@ -344,6 +346,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1576.|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Python](/Easy/1576.ReplaceAllQuestionmarkstoAvoidConsecutiveRepeatingCharacters.py)|Easy|Fast but awful soln.|
 |1582.|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](/Easy/1582.SpecialPositionsinaBinaryMatrix.py)|Easy||
 |1588.|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](/Easy/1588.SumofAllOddLengthSubarrays.py)|Easy|`Two Pointers`|
+|1592.|[Rearrange Spaces Between Wordss](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Python](/Easy/1592.RearrangeSpacesBetweenWords.py)|Easy||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
