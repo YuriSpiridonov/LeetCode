@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-320%2F1597-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-321%2F1601-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -153,6 +153,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference(set).py)|Easy|`set`, `.count()`|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference.py)|Easy|`.replace()`|
+|399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Medium/399.EvaluateDivision.py)|Medium|God bless youtube|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Easy/412.FizzBuzz.py)|Easy||
