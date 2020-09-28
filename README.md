@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-321%2F1601-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-322%2F1601-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -208,6 +208,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |706.|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](/Easy/706.DesignHashMap.py)|Easy|`list`|
 |707.|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](/Medium/707.DesignLinkedList.py)|Medium|`Linked List`, first time|
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
+|713.|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](/Medium/713.SubarrayProductLessThanK.py)|Medium|`Two pointers`|
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |763.|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](/Medium/763.PartitionLabels(bruteforce).py)|Medium|Brute Force - resolve|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
