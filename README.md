@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-323%2F1601-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-324%2F1601-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -330,6 +330,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
 |1491.|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](/Easy/1491.AverageSalaryExcludingtheMinimumandMaximumSalary.py)|Easy||
 |1496.|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](/Easy/1496.PathCrossing.py)|Easy||
+|1502.|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python](/Easy/1502.CanMakeArithmeticProgressionFromSequence.py)|Easy||
 |1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(List).py)|Easy|`List`|
 |1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(String).py)|Easy|Without conberting `String` into `List`|
 |1512.|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Python](/Easy/1512.NumberofGoodPairs(Dict).py)|Easy|`Dictionary`|
