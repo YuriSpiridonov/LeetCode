@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-324%2F1601-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-325%2F1602-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -339,6 +339,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1523.|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](/Easy/1523.CountOddNumbersinanIntervalRange.py)|Easy||
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(List).py)|Easy|`List`|
 |1528.|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](/Easy/1528.ShuffleString(String).py)|Easy|`String`|
+|1534.|[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](/Easy/1534.CountGoodTriplets.py)|Easy||
 |1539.|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python](/Easy/1539.KthMissingPositiveNumber.py)|Easy|`List`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(Stack).py)|Easy|`Stack`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(string).py)|Easy|`String` in-place|
