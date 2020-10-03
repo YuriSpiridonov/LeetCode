@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-326%2F1602-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-327%2F1602-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -185,6 +185,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |520.|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](/Easy/520.DetectCapital.py)|Easy|Built-in functions|
 |525.|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/ContiguousArray.py)|Medium|
 |530.|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](/Easy/530.MinimumAbsoluteDifferenceinBST.py)|Easy|Bad solution - resolve|
+|532.|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](/Medium/532.K-diffPairsinanArray.py)|Medium|Brute force|
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |538.|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](/Easy/538.ConvertBSTtoGreaterTree.py)|Easy|`DFS`, recursion|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
