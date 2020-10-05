@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-328%2F1611-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-330%2F1611-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -172,6 +172,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |459.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](/Easy/459.RepeatedSubstringPattern.py)|Easy||
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Medium/470.ImplementRand10()UsingRand7().py)|Medium|'Invented the wheel'|
+|476.|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](/Easy/476.NumberComplement.py)|Easy||
 |495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Medium/495.TeemoAttacking.py)|Medium||
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
@@ -253,6 +254,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](https://github.com/YuriSpiridonov/August-LeetCoding-Challenge-2020/blob/master/Week%204/983.MinimumCostForTickets.py)|Medium|Googled soln|
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
+|1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Hard/1032.StreamofCharacters.py)|Hard|`Trie`|
 |1038.|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](/Medium/1038.BinarySearchTreetoGreaterSumTree.py)|Medium|`DFS`, `recursion`|
