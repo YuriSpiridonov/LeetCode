@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-330%2F1611-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-331%2F1611-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -274,6 +274,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
+|1252.|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](/Easy/1252.CellswithOddValuesinaMatrix.py)|Easy||
 |1282.|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](/Medium/1282.GroupthePeopleGiventheGroupSizeTheyBelongTo.py)|Medium||
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
 |1288.|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Python](/Medium/1288.RemoveCoveredIntervals.py)|Medium|Brute force|
