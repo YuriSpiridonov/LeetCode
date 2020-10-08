@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-332%2F1611-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-333%2F1612-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -359,6 +359,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1582.|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](/Easy/1582.SpecialPositionsinaBinaryMatrix.py)|Easy||
 |1588.|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](/Easy/1588.SumofAllOddLengthSubarrays.py)|Easy|`Two Pointers`|
 |1592.|[Rearrange Spaces Between Wordss](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Python](/Easy/1592.RearrangeSpacesBetweenWords.py)|Easy||
+|1609.|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](/Medium/1609.EvenOddTree.py)|Medium|`BFS`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
