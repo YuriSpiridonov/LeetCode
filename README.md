@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-333%2F1612-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-338%2F1612-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -150,6 +150,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
+|380.|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](/Medium/380.InsertDeleteGetRandomO(1).py)|Medium|not O(1), Brute force|
+|381.|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](/Hard/381.InsertDeleteGetRandomO(1)-Duplicatesallowed.py)|Hard|not O(1), Brute force|
 |384.|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](/Medium/384.ShuffleanArray.py)|Medium|`random.sample()`|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString(BruteForce).py)|Easy|Brute Force|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
@@ -160,7 +162,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Easy/412.FizzBuzz.py)|Easy||
 |421.|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python](/Medium/421.MaximumXORofTwoNumbersinanArray.py)|Medium|googled soln|
-|429.|[AN-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
+|429.|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Medium/435.Non-overlappingIntervals.py)|Medium|`lambda`|
 |436.|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Python](/Medium/436.FindRightInterval.py)|Medium|Brute Force|
@@ -271,6 +273,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1122.|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](/Easy/1122.RelativeSortArray.py)|Easy||
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
+|1160.|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Python](/Easy/1160.FindWordsThatCanBeFormedbyCharacters.py)|Easy|`Dictionary`|
 |1161.|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](/Medium/1161.MaximumLevelSumofaBinaryTree.py)|Medium|`BFS`|
 |1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
@@ -358,7 +361,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |1576.|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Python](/Easy/1576.ReplaceAllQuestionmarkstoAvoidConsecutiveRepeatingCharacters.py)|Easy|Fast but awful soln.|
 |1582.|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](/Easy/1582.SpecialPositionsinaBinaryMatrix.py)|Easy||
 |1588.|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Python](/Easy/1588.SumofAllOddLengthSubarrays.py)|Easy|`Two Pointers`|
-|1592.|[Rearrange Spaces Between Wordss](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Python](/Easy/1592.RearrangeSpacesBetweenWords.py)|Easy||
+|1592.|[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Python](/Easy/1592.RearrangeSpacesBetweenWords.py)|Easy||
+|1598.|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](/Easy/1598.CrawlerLogFolder.py)|Easy||
+|1603.|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](/Easy/1603.DesignParkingSystem.py)|Easy|`Dictionary`|
 |1609.|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](/Medium/1609.EvenOddTree.py)|Medium|`BFS`|
 
 <div align="right">
