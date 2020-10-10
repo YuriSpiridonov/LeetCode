@@ -43,11 +43,11 @@
 """
 #Difficulty: Medium
 #45 / 45 test cases passed.
-#Runtime: 444 ms
-#Memory Usage: 18.2 MB
+#Runtime: 424 ms
+#Memory Usage: 18.4 MB
 
-#Runtime: 444 ms, faster than 62.78% of Python3 online submissions for Minimum Number of Arrows to Burst Balloons.
-#Memory Usage: 18.2 MB, less than 97.86% of Python3 online submissions for Minimum Number of Arrows to Burst Balloons.
+#Runtime: 424 ms, faster than 86.48% of Python3 online submissions for Minimum Number of Arrows to Burst Balloons.
+#Memory Usage: 18.4 MB, less than 97.86% of Python3 online submissions for Minimum Number of Arrows to Burst Balloons.
 
 class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
@@ -57,7 +57,7 @@ class Solution:
         while True:
             j = i + 1
             if j >= length:
-                return len(points)
+                return length
             if points[j][0] <= points[i][1]:
                 points.pop(j)
                 i -= 1
