@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-339%2F1612-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-340%2F1627-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -368,6 +368,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1598.|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](/Easy/1598.CrawlerLogFolder.py)|Easy||
 |1603.|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](/Easy/1603.DesignParkingSystem.py)|Easy|`Dictionary`|
 |1609.|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](/Medium/1609.EvenOddTree.py)|Medium|`BFS`|
+|1624.|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](/Easy/1624.LargestSubstringBetweenTwoEqualCharacters.py)|Easy||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
