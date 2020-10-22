@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-342%2F1627-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-343%2F1627-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -369,6 +369,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1598.|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](/Easy/1598.CrawlerLogFolder.py)|Easy||
 |1603.|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Python](/Easy/1603.DesignParkingSystem.py)|Easy|`Dictionary`|
 |1609.|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[Python](/Medium/1609.EvenOddTree.py)|Medium|`BFS`|
+|1614.|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python](/Easy/1614.MaximumNestingDepthoftheParentheses.py)|Easy||
 |1619.|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](/Easy/1619.MeanofArrayAfterRemovingSomeElements.py)|Easy||
 |1624.|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](/Easy/1624.LargestSubstringBetweenTwoEqualCharacters.py)|Easy||
 
