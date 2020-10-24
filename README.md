@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-344%2F1628-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-345%2F1628-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -338,6 +338,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory.py)|Medium|`Doubly Linked List`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory(Dictionary).py)|Medium|`Dictionary`|
+|1475.|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Python](/Easy/1475.FinalPricesWithaSpecialDiscountinaShop.py)|Easy|kinda Brute force|
 |1476.|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Python](/Medium/1476.SubrectangleQueries.py)|Medium|nested `for loop`|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray.py)|Easy||
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|`List comprehension`|
