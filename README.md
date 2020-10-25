@@ -30,7 +30,6 @@ In this repository provided my Python solutions of LeetCode problems.
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|
 |24.|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](/Medium/24.SwapNodesinPairs.py)|Medium|`Linked List`|
-
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
