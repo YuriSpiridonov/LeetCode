@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-346%2F1632-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-348%2F1633-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -61,7 +61,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
 |83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](/Easy/83.RemoveDuplicatesfromSortedList.py)|Easy|`Linked List`|
-|88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
+|88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
+|92.|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](/Medium/92.ReverseLinkedListII.py)|Medium|`Stack`, `Linked List`|
 |94.|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](/Medium/94.BinaryTreeInorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree.py)|Medium|`Binary Tree`, `Recursion`|
 |98.|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Python](/Medium/98.ValidateBinarySearchTree(2nd).py)|Medium|`Binary Tree`, `Recursion`, another valid. approach|
@@ -172,6 +173,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |437.|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Python](/Medium/437.PathSumIII.py)|Medium|`DFS`|
 |441.|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Python](/Easy/441.ArrangingCoins.py)|Easy|Iteratively|
 |442.|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Python](/Medium/442.FindAllDuplicatesinanArray.py)|Medium|`set()`|
+|445.|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](/Medium/445.AddTwoNumbersII.py)|Medium|converted to `int` and back to `Linked List`|
 |449.|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Python](/Medium/449.SerializeandDeserializeBST.py)|Medium|Complicated solution - resolve|
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
