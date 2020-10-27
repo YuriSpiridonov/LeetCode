@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-348%2F1633-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-350%2F1633-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -377,6 +377,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1614.|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Python](/Easy/1614.MaximumNestingDepthoftheParentheses.py)|Easy||
 |1619.|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|[Python](/Easy/1619.MeanofArrayAfterRemovingSomeElements.py)|Easy||
 |1624.|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](/Easy/1624.LargestSubstringBetweenTwoEqualCharacters.py)|Easy||
+|1629.|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](/Easy/1629.SlowestKey.py)|Easy||
+|1630.|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](/Medium/1630.ArithmeticSubarrays.py)|Medium||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
