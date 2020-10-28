@@ -50,3 +50,8 @@ class NumMatrix:
         for row in range(row1, row2+1):
             result += sum(self.matrix[row][col1:col2+1])
         return result
+
+
+# Your NumMatrix object will be instantiated and called as such:
+# obj = NumMatrix(matrix)
+# param_1 = obj.sumRegion(row1,col1,row2,col2)
