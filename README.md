@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-350%2F1633-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-351%2F1633-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -146,6 +146,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(binarySearch).py)|Hard|`Binary Search`|
 |297.|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Python](/Hard/297.SerializeandDeserializeBinaryTree.py)|Hard|`BFS`|
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Easy/299.BullsandCows.py)|Easy||
+|304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce).py)|Medium|Brute force|
+|304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|A bit optimized but still brute force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
