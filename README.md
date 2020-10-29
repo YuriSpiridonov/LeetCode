@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-351%2F1633-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-352%2F1634-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -236,6 +236,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage(reverse).py)|Easy|`.reverse()`|
 |835.|[Image Overlap](https://leetcode.com/problems/image-overlap/)|[Python](/Medium/835.ImageOverlap.py)|Medium|Brute Force|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
+|849.|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](/Medium/849.MaximizeDistancetoClosestPerson.py)|Medium|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
