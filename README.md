@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-352%2F1634-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-356%2F1634-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -215,6 +215,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |657.|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](/Easy/657.RobotReturntoOrigin.py)|Easy|`Dictionary`|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
+|674.|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](/Easy/674.LongestContinuousIncreasingSubsequence.py)|Easy|simple counter|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
 |700.|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](/Easy/700.SearchinaBinarySearchTree.py)|Easy|`Binary Search Tree`, `Recursion`|
 |701.|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](/Medium/701.InsertintoaBinarySearchTree.py)|Medium|`Binary Search Tree`, `Recursion`|
@@ -325,6 +326,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1387.|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Python](/Medium/1387.SortIntegersbyThePowerValue.py)|Medium||
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
+|1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder(list).py)|Easy|`List`|
+|1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder.py)|Easy|sum (`int`) comparison|
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
 |1423.|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](/Medium/1423.MaximumPointsYouCanObtainfromCards.py)|Medium|`Sliding Window`|
 |1426.|[Counting Elements](https://leetcode.com/problems/counting-elements)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/CountingElements.py)|Easy|
@@ -365,6 +368,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1539.|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python](/Easy/1539.KthMissingPositiveNumber.py)|Easy|`List`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(Stack).py)|Easy|`Stack`|
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(string).py)|Easy|`String` in-place|
+|1545.|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python](/Medium/1545.FindKthBitinNthBinaryString.py)|Medium|Brute Force|
+|1550.|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](/Easy/1550.ThreeConsecutiveOdds.py)|Easy|simple counter|
 |1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
