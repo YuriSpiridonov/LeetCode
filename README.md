@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-358%2F1634-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-359%2F1643-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -217,6 +217,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |674.|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](/Easy/674.LongestContinuousIncreasingSubsequence.py)|Easy|simple counter|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
+|682.|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](/Easy/682.BaseballGame.py)|Easy||
 |700.|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](/Easy/700.SearchinaBinarySearchTree.py)|Easy|`Binary Search Tree`, `Recursion`|
 |701.|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](/Medium/701.InsertintoaBinarySearchTree.py)|Medium|`Binary Search Tree`, `Recursion`|
 |703.|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](/Easy/703.KthLargestElementinaStream.py)|Easy|brute force|
