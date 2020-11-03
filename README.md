@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-360%2F1643-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-366%2F1643-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -60,7 +60,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(MergeSort).py)|Medium|`Merge Sort`|
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
+|82.|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](/Medium/82.RemoveDuplicatesfromSortedListII.py)|Medium|`Linked List`|
 |83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](/Easy/83.RemoveDuplicatesfromSortedList.py)|Easy|`Linked List`|
+|86.|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](/Medium/86.PartitionList.py)|Medium|`Linked List`|
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](/Easy/88.MergeSortedArray.py)|Easy|Two solutions|
 |92.|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](/Medium/92.ReverseLinkedListII.py)|Medium|`Stack`, `Linked List`|
 |94.|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](/Medium/94.BinaryTreeInorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
@@ -89,12 +91,17 @@ In this repository provided my Python solutions of LeetCode problems.
 |129.|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](/Medium/129.SumRoottoLeafNumbers.py)|Medium|`DFS`|
 |134.|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](/Medium/134.GasStation.py)|Medium||
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
+|137.|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Python](/Medium/137.SingleNumberII.py)|Medium|Brute Force|
 |139.|[Word Break](https://leetcode.com/problems/word-break/)|[Python](/Medium/139.WordBreak.py)|Medium|Watched how to complete|
+|141.|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](/Easy/141.LinkedListCycle(BruteForce).py)|Easy|`Linked List`, Brute Force|
+|141.|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](/Easy/141.LinkedListCycle.py)|Easy|`Linked List`, `set()`|
+|142.|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Python](/Medium/142.LinkedListCycleII.py)|Medium|`Linked List`, `set()`|
 |143.|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](/Medium/143.ReorderList.py)|Medium|`Linked List`, `Stack`|
 |144.|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](/Medium/144.BinaryTreePreorderTraversal.py)|Medium|`Binary Tree`, `Recursion`|
 |145.|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](/Hard/145.BinaryTreePostorderTraversal.py)|Hard|`Binary Tree`, `Recursion`|
 |146.|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LRUCache.py)|Medium|
 |147.|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](/Medium/147.InsertionSortList.py)|Medium|Not exactly what asked, `Linked List`, `Binary Search`|
+|148.|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](/Medium/148.SortList.py)|Medium|`Linked List`, Brute Force|
 |150.|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](/Medium/150.EvaluateReversePolishNotation.py)|Medium|`Stack`|
 |152.|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](/Medium/152.MaximumProductSubarray.py)|Medium|`DP`|
 |153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(forLoop).py)|Medium|`For loop`|
