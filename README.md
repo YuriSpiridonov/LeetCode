@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-369%2F1643-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-370%2F1644-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,6 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 | ---: | --- | --- | --- | --- |
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.TwoSum.py)|Easy|
 |2.|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](/Medium/2.AddTwoNumbers.py)|Medium|`Linked List` + brute force|
+|3.|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](/Medium/3.LongestSubstringWithoutRepeatingCharacters.py)|Medium|Kinda brute force|
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
@@ -51,6 +52,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](/Easy/67.AddBinary.py)|Easy||
+|71.|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](/Medium/71.SimplifyPath.py)|Medium|`Stack`|
 |73.|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](/Medium/73.SetMatrixZeroes.py)|Medium|`set()`|
 |74.|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](/Medium/74.Searcha2DMatrix.py)|Medium|`Binary Search`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(BubleSort).py)|Medium|`Bubble Sort`|
@@ -299,6 +301,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1169.|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](/Medium/1169.InvalidTransactions.py)|Medium|Ugly brute force|
 |1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
+|1217.|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Python](/Easy/1217.MinimumCosttoMoveChipstoTheSamePosition.py)|Easy|simple counter|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
 |1252.|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](/Easy/1252.CellswithOddValuesinaMatrix.py)|Easy||
 |1282.|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](/Medium/1282.GroupthePeopleGiventheGroupSizeTheyBelongTo.py)|Medium||
