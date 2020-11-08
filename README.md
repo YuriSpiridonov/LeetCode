@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-372%2F1645-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-373%2F1649-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -214,6 +214,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |559.|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](/Easy/559.MaximumDepthofN-aryTree.py)|Easy|`BFS`|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
+|563.|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](/Easy/563.BinaryTreeTilt.py)|Easy|`Binary Tree`, `postorder`, overcode|
 |589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|`Recursion`|
 |590.|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](/Easy/590.N-aryTreePostorderTraversal.py)|Easy|`Recursion`|
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
