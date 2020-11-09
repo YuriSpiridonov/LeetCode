@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-373%2F1649-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-374%2F1649-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -284,6 +284,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
+|1026.|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](/Medium/1026.MaximumDifferenceBetweenNodeandAncestor.py)|Medium|`BFS`, iteratively|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Hard/1032.StreamofCharacters.py)|Hard|`Trie`|
 |1038.|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](/Medium/1038.BinarySearchTreetoGreaterSumTree.py)|Medium|`DFS`, `recursion`|
 |1041.|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](/Medium/1041.RobotBoundedInCircle.py)|Medium|`Dictionary`|
