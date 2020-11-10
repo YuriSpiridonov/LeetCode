@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-374%2F1649-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-376%2F1649-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -243,6 +243,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |763.|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](/Medium/763.PartitionLabels(bruteforce).py)|Medium|Brute Force - resolve|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |807.|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](/Medium/807.MaxIncreasetoKeepCitySkyline.py)|Medium||
+|811.|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](/Easy/811.SubdomainVisitCount.py)|Easy|`Dictionary`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents(set).py)|Medium|`Set`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents.py)|Medium|`List`, 35 times slower|
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Easy/824.GoatLatin.py)|Easy||
@@ -281,6 +282,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |981.|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](/Medium/981.TimeBasedKey-ValueStore.py)|Medium|`Binary Search`|
 |983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](https://github.com/YuriSpiridonov/August-LeetCoding-Challenge-2020/blob/master/Week%204/983.MinimumCostForTickets.py)|Medium|Googled soln|
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
+|993.|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](/Easy/993.CousinsinBinaryTree.py)|Easy|`BFS`, iteratively|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
