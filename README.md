@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-377%2F1649-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-378%2F1650-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -40,6 +40,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |36.|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/36.ValidSudoku.py)|Medium|Brute Force, `set`, `list`|
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/Hard/41.FirstMissingPositive.py)|Hard||
 |46.|[Permutations](https://leetcode.com/problems/permutations/)|[Python](/Medium/46.Permutations.py)|Medium|`Itertools`|
+|47.|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](/Medium/47.PermutationsII.py)|Medium|`Itertools`|
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](/Medium/50.Pow(x%2Cn).py)|Medium|`Recursion`|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
