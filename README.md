@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-378%2F1650-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-380%2F1651-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -409,7 +409,10 @@ In this repository provided my Python solutions of LeetCode problems.
 |1624.|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](/Easy/1624.LargestSubstringBetweenTwoEqualCharacters.py)|Easy||
 |1629.|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](/Easy/1629.SlowestKey.py)|Easy||
 |1630.|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](/Medium/1630.ArithmeticSubarrays.py)|Medium||
+|1636.|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python](/Easy/1636.SortArraybyIncreasingFrequency.py)|Easy|complicated counter|
 |1640.|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](/Easy/1640.CheckArraFormationThroughConcatenation.py)|Easy||
+|1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray(while).py)|Easy|`while`|
+|1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|`for`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
