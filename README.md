@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-380%2F1651-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-386%2F1651-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -116,6 +116,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |167.|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](/Easy/167.TwoSumII-Inputarrayissorted.py)|Easy|
 |168.|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](/Easy/168.ExcelSheetColumnTitle.py)|Easy|
 |171.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](/Easy/171.ExcelSheetColumnNumber.py)|Easy||
+|172.|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](/Easy/172.FactorialTrailingZeroes.py)|Easy|Brute Force|
 |173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
 |179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Medium/179.LargestNumber.py)|Medium|`Bubble sort`|
 |198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Easy/198.HouseRobber.py)|Easy||
@@ -174,6 +175,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference(set).py)|Easy|`set`, `.count()`|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference.py)|Easy|`.replace()`|
+|392.|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](/Easy/392.IsSubsequence.py)|Easy||
 |399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Medium/399.EvaluateDivision.py)|Medium|God bless youtube|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
@@ -192,6 +194,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |452.|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](/Medium/452.MinimumNumberofArrowstoBurstBalloons.py)|Medium||
 |456.|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](/Medium/456.132Pattern.py)|Medium|Brute Force|
+|458.|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](/Hard/458.PoorPigs.py)|Hard|`math`|
 |459.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](/Easy/459.RepeatedSubstringPattern.py)|Easy||
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Medium/470.ImplementRand10()UsingRand7().py)|Medium|'Invented the wheel'|
@@ -227,6 +230,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |653.|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](/Easy/653.TwoSumIV-InputisaBST.py)|Easy|Brute Force - resolve|
 |657.|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](/Easy/657.RobotReturntoOrigin.py)|Easy|`Dictionary`|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
+|665.|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](/Easy/665.Non-decreasingArray.py)|Easy|Brute Force|
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |674.|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](/Easy/674.LongestContinuousIncreasingSubsequence.py)|Easy|simple counter|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
@@ -256,6 +260,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |849.|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](/Medium/849.MaximizeDistancetoClosestPerson.py)|Medium|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
+|859.|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](/Easy/859.BuddyStrings.py)|Easy|Brute Force|
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
@@ -286,6 +291,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
 |993.|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](/Easy/993.CousinsinBinaryTree.py)|Easy|`BFS`, iteratively|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
+|1002.|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](/Easy/1002.FindCommonCharacters.py)|Easy|`Dictionary`|
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
 |1026.|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](/Medium/1026.MaximumDifferenceBetweenNodeandAncestor.py)|Medium|`BFS`, iteratively|
