@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-388%2F1659-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-389%2F1659-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -261,6 +261,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |849.|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](/Medium/849.MaximizeDistancetoClosestPerson.py)|Medium|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(ListComprehension).py)|Easy|`List comprehension`|
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
+|858.|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[Python](/Medium/858.MirrorReflection.py)|Medium||
 |859.|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](/Easy/859.BuddyStrings.py)|Easy|Brute Force|
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
