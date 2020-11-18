@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-389%2F1659-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-390%2F1659-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -46,6 +46,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
 |54.|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/54.SpiralMatrix.py)|Medium|
 |55.|[Jump Game](https://leetcode.com/problems/jump-game)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/JumpGame.py)|Medium|
+|56.|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](/Medium/56.MergeIntervals.py)|Medium||
 |57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](/Hard/57.InsertInterval.py)|Hard|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Easy/58.LengthofLastWord(list).py)|Easy|`List`|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Easy/58.LengthofLastWord(string).py)|Easy|`String`|
@@ -286,6 +287,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |965.|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](/Easy/965.UnivaluedBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |967.|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](/Medium/967.NumbersWithSameConsecutiveDifferences.py)|Medium|`DFS`|
 |969.|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](/Medium/969.PancakeSorting.py)|Medium|sort|
+|970.|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Python](/Easy/970.PowerfulIntegers.py)|Medium|nested `for` loops|
 |977.|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](/Easy/977.SquaresofaSortedArray.py)|Easy|
 |980.|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[Python](/Hard/980.UniquePathsIII.py)|Hard|"googled soln", optimised|
 |981.|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Python](/Medium/981.TimeBasedKey-ValueStore.py)|Medium|`Binary Search`|
