@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-390%2F1659-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-391%2F1660-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -177,6 +177,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference(set).py)|Easy|`set`, `.count()`|
 |389.|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](/Easy/389.FindtheDifference.py)|Easy|`.replace()`|
 |392.|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](/Easy/392.IsSubsequence.py)|Easy||
+|394.|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](/Medium/394.DecodeString.py)|Medium|`Stack`|
 |399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Medium/399.EvaluateDivision.py)|Medium|God bless youtube|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
