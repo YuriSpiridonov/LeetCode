@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-392%2F1661-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-393%2F1661-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -358,7 +358,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |1381.|[Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[Python](/Medium/1381.DesignaStackWithIncrementOperation.py)|Medium|`List` as `Stack`|
 |1387.|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Python](/Medium/1387.SortIntegersbyThePowerValue.py)|Medium||
 |1389.|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1389.CreateTargetArrayintheGivenOrder.py)|Easy|`enumerate`, `insert`|
+|1395.|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)|[Python](/Medium/1395.CountNumberofTeams.py)|Medium|Brute Force|
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
+
 |1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder(list).py)|Easy|`List`|
 |1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder.py)|Easy|sum (`int`) comparison|
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
