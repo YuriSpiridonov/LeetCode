@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-393%2F1661-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-394%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -250,6 +250,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |744.|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](/Easy/744.FindSmallestLetterGreaterThanTarget.py)|Easy|`Binary Search`|
 |763.|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](/Medium/763.PartitionLabels(bruteforce).py)|Medium|Brute Force - resolve|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
+|804.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](/Easy/804.UniqueMorseCodeWords.py)|Easy|`Dictionary`|
 |807.|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](/Medium/807.MaxIncreasetoKeepCitySkyline.py)|Medium||
 |811.|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](/Easy/811.SubdomainVisitCount.py)|Easy|`Dictionary`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents(set).py)|Medium|`Set`|
