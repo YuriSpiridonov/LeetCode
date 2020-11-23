@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-394%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-395%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -428,6 +428,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|`for`|
 |1652.|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](/Easy/1652.DefusetheBomb.py)|Easy||
 |1656.|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](/Easy/1656.DesignanOrderedStream.py)|Easy|`list`|
+|1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|`.join()`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
