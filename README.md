@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-395%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-396%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -141,6 +141,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |222.|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](/Medium/222.CountCompleteTreeNodes.py)|Medium|`Recursion`|
 |225.|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](/Easy/225.ImplementStackusingQueues.py)|Easy|`List`|
 |226.|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](/Easy/226.InvertBinaryTree.py)|Easy|`Recursion`|
+|227.|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python](/Medium/227.BasicCalculatorII.py)|Medium|`Queue`, Brute Force|
 |228.|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](/Medium/228.SummaryRanges.py)|Medium|`Two Pointers`|
 |229.|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](/Medium/229.MajorityElementII(BruteForce).py)|Medium|Brute Force|
 |229.|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Python](/Medium/229.MajorityElementII.py)|Medium|a bit optimized|
