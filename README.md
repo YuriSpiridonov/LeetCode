@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-398%2F1666-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-399%2F1666-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -299,6 +299,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
 |993.|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](/Easy/993.CousinsinBinaryTree.py)|Easy|`BFS`, iteratively|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
+|999.|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](/Easy/999.AvailableCapturesforRook.py)|Easy||
 |1002.|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](/Easy/1002.FindCommonCharacters.py)|Easy|`Dictionary`|
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1015.|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python](/Medium/1015.SmallestIntegerDivisiblebyK.py)|Medium|counting lenght, Brute Force|
