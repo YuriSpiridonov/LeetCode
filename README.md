@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-399%2F1666-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-400%2F1667-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -323,6 +323,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1161.|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](/Medium/1161.MaximumLevelSumofaBinaryTree.py)|Medium|`BFS`|
 |1169.|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](/Medium/1169.InvalidTransactions.py)|Medium|Ugly brute force|
 |1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
+|1189.|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](/Easy/1189.MaximumNumberofBalloons.py)|Easy|simple counter|
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
 |1217.|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Python](/Easy/1217.MinimumCosttoMoveChipstoTheSamePosition.py)|Easy|simple counter|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
