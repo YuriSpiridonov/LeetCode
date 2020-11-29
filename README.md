@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-401%2F1667-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-401%2F1675-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -338,6 +338,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|`DFS`|
 |1304.|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](/Easy/1304.FindNUniqueIntegersSumuptoZero.py)|Easy||
 |1305.|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[Python](/Medium/1305.AllElementsinTwoBinarySearchTrees.py)|Medium|`BFS`, iteratively|
+|1306.|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Python](/Medium/1306.JumpGameIII.py)|Medium|`BFS`, iteratively|
 |1309.|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](/Easy/1309.DecryptStringfromAlphabettoIntegerMapping.py)|Easy||
 |1313.|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](/Easy/1313.DecompressRun-LengthEncodedList.py)|Easy||
 |1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
