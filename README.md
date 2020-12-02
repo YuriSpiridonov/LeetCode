@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-403%2F1675-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-404%2F1675-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -172,6 +172,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
 |380.|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](/Medium/380.InsertDeleteGetRandomO(1).py)|Medium|not O(1), Brute force|
 |381.|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](/Hard/381.InsertDeleteGetRandomO(1)-Duplicatesallowed.py)|Hard|not O(1), Brute force|
+|382.|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[Python](/Medium/382.LinkedListRandomNode.py)|Medium|`random.choice()`|
 |384.|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Python](/Medium/384.ShuffleanArray.py)|Medium|`random.sample()`|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString(BruteForce).py)|Easy|Brute Force|
 |387.|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](/Easy/387.FirstUniqueCharacterinaString.py)|Easy|`Dictionary`, `enumerate`|
