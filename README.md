@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-406%2F1676-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-407%2F1676-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -228,6 +228,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |590.|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](/Easy/590.N-aryTreePostorderTraversal.py)|Easy|`Recursion`|
 |593.|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](/Medium/593.ValidSquare.py)|Medium||
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
+|605.|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](/Easy/605.CanPlaceFlowers.py)|Easy|simple counter|
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
 |622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
 |637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
@@ -396,6 +397,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1486.|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](/Easy/1486.XOROperationinanArray.py)|Easy||
 |1487.|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)|[Python](/Medium/1487.MakingFileNamesUnique.py)|Medium||
 |1491.|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Python](/Easy/1491.AverageSalaryExcludingtheMinimumandMaximumSalary.py)|Easy||
+|1492.|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[Python](/Medium/1492.ThekthFactorofn.py)|Medium||
 |1496.|[Path Crossing](https://leetcode.com/problems/path-crossing/)|[Python](/Easy/1496.PathCrossing.py)|Easy||
 |1502.|[Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[Python](/Easy/1502.CanMakeArithmeticProgressionFromSequence.py)|Easy||
 |1507.|[Reformat Date](https://leetcode.com/problems/reformat-date/)|[Python](/Easy/1507.ReformatDate(List).py)|Easy|`List`|
