@@ -209,6 +209,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
 |501.|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](/Easy/501.FindModeinBinarySearchTree.py)|Easy|`Recursion`|
+|503.|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](/Medium/503.NextGreaterElementII.py)|Medium|Brute Force|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(Dict).py)|Easy|`Dictionary`|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(TwoVar).py)|Easy|Used two variables n1 & n2|
