@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-409%2F1676-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-409%2F1681-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -50,6 +50,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |57.|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](/Hard/57.InsertInterval.py)|Hard|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Easy/58.LengthofLastWord(list).py)|Easy|`List`|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](/Easy/58.LengthofLastWord(string).py)|Easy|`String`|
+|59.|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](/Medium/59.SpiralMatrixII.py)|Medium|spaghetti|
 |61.|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Python](/Medium/61.RotateList.py)|Medium|`Linked List`|
 |64.|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/MinimumPathSum.py)|Medium|
 |66.|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/66.PlusOne.py)|Easy||
