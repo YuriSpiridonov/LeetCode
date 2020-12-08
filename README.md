@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-409%2F1681-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-410%2F1681-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -306,6 +306,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |999.|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](/Easy/999.AvailableCapturesforRook.py)|Easy||
 |1002.|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python](/Easy/1002.FindCommonCharacters.py)|Easy|`Dictionary`|
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
+|1010.|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](/Medium/1010.PairsofSongsWithTotalDurationsDivisibleby60.py)|Medium||
 |1015.|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python](/Medium/1015.SmallestIntegerDivisiblebyK.py)|Medium|counting lenght, Brute Force|
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
 |1026.|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](/Medium/1026.MaximumDifferenceBetweenNodeandAncestor.py)|Medium|`BFS`, iteratively|
