@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-410%2F1681-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-411%2F1681-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -444,6 +444,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|`.join()`|
 |1669.|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python](/Medium/1669.MergeInBetweenLinkedLists.py)|Medium|`Linked List`|
 |1672.|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](/Easy/1672.RichestCustomerWealth.py)|Easy||
+|1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation(replace).py)|Easy|`.replace()`|
+|1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation.py)|Easy|iteratively|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
