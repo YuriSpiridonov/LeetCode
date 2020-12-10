@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-411%2F1681-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-412%2F1681-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -287,6 +287,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(whilePop).py)|Easy|`while` and `.pop()`|
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST.py)|Easy|`Binary Search Tree`|
 |938.|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](/Easy/938.RangeSumofBST(Optimized).py)|Easy|`Binary Search Tree`, Optimized solution|
+|941.|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](/Easy/941.ValidMountainArray.py)|Easy||
 |946.|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](/Medium/946.ValidateStackSequences.py)|Medium|`Stack`|
 |949.|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Python](/Easy/949.LargestTimeforGivenDigits.py)|Easy|`Itertools`|
 |952.|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](/Hard/952.LargestComponentSizebyCommonFactor.py)|Hard|Googled soln|
@@ -348,6 +349,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1313.|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](/Easy/1313.DecompressRun-LengthEncodedList.py)|Easy||
 |1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
 |1325.|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](/Medium/1325.DeleteLeavesWithaGivenValue.py)|Medium|`DFS`, `recursion`|
+|1331.|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](/Easy/1331.RankTransformofanArray.py)|Easy|`Enumerate`|
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1338.|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Python](/Medium/1338.ReduceArraySizetoTheHalf.py)|Medium|`Dictionary`, `Enumerate`|
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
