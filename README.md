@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-413%2F1683-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-418%2F1683-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -236,6 +236,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |641.|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](/Medium/641.DesignCircularDeque.py)|Medium|Need to resolve without use of builtin functions (first time)|
 |653.|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](/Easy/653.TwoSumIV-InputisaBST.py)|Easy|Brute Force - resolve|
+|654.|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)|[Python](/Medium/654.MaximumBinaryTree.py)|Medium|`DFS`, `Recursion`|
 |657.|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Python](/Easy/657.RobotReturntoOrigin.py)|Easy|`Dictionary`|
 |658.|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Python](/Medium/658.FindKClosestElements.py)|Medium|`Binary Search`|
 |665.|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](/Easy/665.Non-decreasingArray.py)|Easy|Brute Force|
@@ -272,6 +273,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |852.|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](/Easy/852.PeakIndexinaMountainArray(set).py)|Easy|`Set`|
 |858.|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[Python](/Medium/858.MirrorReflection.py)|Medium||
 |859.|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](/Easy/859.BuddyStrings.py)|Easy|Brute Force|
+|865.|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[Python](/Medium/865.SmallestSubtreewithalltheDeepestNodes.py)|Medium|`DFS`, `Recursion`|
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
@@ -323,6 +325,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(re.sub).py)|Easy|`re.sub`|
 |1108.|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](/Easy/1108.DefanginganIPAddress(join).py)|Easy|`.join()`|
 |1122.|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Python](/Easy/1122.RelativeSortArray.py)|Easy||
+|1123.|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|[Python](/Medium/1123.LowestCommonAncestorofDeepestLeaves.py)|Medium|`DFS`, `recursion`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequenceSolution2DArray.py)|Medium|`2D Array`|
 |1143.|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/LongestCommonSubsequence_recursion.py)|Medium|`Recursion`, Time Limit Exceeded|
 |1160.|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[Python](/Easy/1160.FindWordsThatCanBeFormedbyCharacters.py)|Easy|`Dictionary`|
@@ -445,7 +448,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |1652.|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](/Easy/1652.DefusetheBomb.py)|Easy||
 |1656.|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](/Easy/1656.DesignanOrderedStream.py)|Easy|`list`|
 |1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|`.join()`|
+|1668.|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[Python](/Easy/1668.MaximumRepeatingSubstring.py)|Easy||
 |1669.|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python](/Medium/1669.MergeInBetweenLinkedLists.py)|Medium|`Linked List`|
+|1670.|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)|[Python](/Medium/1670.DesignFrontMiddleBackQueue.py)|Medium|`List`|
 |1672.|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](/Easy/1672.RichestCustomerWealth.py)|Easy||
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation(replace).py)|Easy|`.replace()`|
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation.py)|Easy|iteratively|
