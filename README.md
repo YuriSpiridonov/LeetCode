@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-418%2F1683-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-424%2F1538-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -26,6 +26,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
 |11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|`Two Pointers`|
+|12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](/Medium/12.IntegertoRoman.py)|Medium||
+|13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](/Easy/13.RomantoInteger.py)|Easy||
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/14.LongestCommonPrefix.py)|Easy||
 |19.|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/Medium/19.RemoveNthNodeFromEndofList.py)|Medium|`Stack`|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
@@ -113,6 +115,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |153.|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](/Medium/153.FindMinimuminRotatedSortedArray(BinarySearch).py)|Medium|`Binary Search`|
 |154.|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Hard/154.FindMinimuminRotatedSortedArrayII.py)|Hard|`For loop`|
 |155.|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MinStack.py)|Easy|
+|160.|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](/Easy/160.IntersectionofTwoLinkedLists.py)|Easy|`Linked List`|
 |162.|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](/Medium/162.FindPeakElement.py)|Medium|
 |165.|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Python](/Medium/165.CompareVersionNumbers.py)|Medium|
 |167.|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](/Easy/167.TwoSumII-Inputarrayissorted.py)|Easy|
@@ -454,6 +457,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |1672.|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](/Easy/1672.RichestCustomerWealth.py)|Easy||
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation(replace).py)|Easy|`.replace()`|
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation.py)|Easy|iteratively|
+|1680.|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[Python](/Medium/1680.ConcatenationofConsecutiveBinaryNumbers.py)|Medium||
+|1684.|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python](/Easy/1684.CounttheNumberofConsistentStrings.py)|Easy||
+|1685.|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|[Python](/Medium/1685.SumofAbsoluteDifferencesinaSortedArray.py)|Medium||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
