@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-424%2F1538-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-429%2F1538-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -32,6 +32,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |19.|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/Medium/19.RemoveNthNodeFromEndofList.py)|Medium|`Stack`|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|
+|21.|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](/Easy/21.MergeTwoSortedLists.py)|Easy|`Linked List`|
 |24.|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](/Medium/24.SwapNodesinPairs.py)|Medium|`Linked List`|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
