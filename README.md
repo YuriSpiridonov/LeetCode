@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-429%2F1538-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-431%2F1538-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -66,6 +66,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(InsertionSort).py)|Medium|`Insertion Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(QuickSort).py)|Medium|`Quick Sort`|
 |75.|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](/Medium/75.SortColors(MergeSort).py)|Medium|`Merge Sort`|
+|78.|[Subsets](https://leetcode.com/problems/subsets/)|[Python](/Medium/78.Subsets.py)|Medium|`itertools.combinations()`|
 |80.|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](/Medium/80.RemoveDuplicatesfromSortedArrayII.py)|Medium||
 |81.|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](/Medium/81.SearchinRotatedSortedArrayII.py)|Medium||
 |82.|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](/Medium/82.RemoveDuplicatesfromSortedListII.py)|Medium|`Linked List`|
