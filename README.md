@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-431%2F1538-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-432%2F1538-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -214,6 +214,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
 |498.|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/498.DiagonalTraverse.py)|Medium|Used theory from GfG.com|
+|500.|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](/Easy/500.KeyboardRow.py)|Easy|`Dictionary`|
 |501.|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[Python](/Easy/501.FindModeinBinarySearchTree.py)|Easy|`Recursion`|
 |503.|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Python](/Medium/503.NextGreaterElementII.py)|Medium|Brute Force|
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|`List`|
