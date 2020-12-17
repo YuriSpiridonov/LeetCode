@@ -30,6 +30,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](/Medium/12.IntegertoRoman.py)|Medium||
 |13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](/Easy/13.RomantoInteger.py)|Easy||
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/14.LongestCommonPrefix.py)|Easy||
+|16.|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/Medium/16.3SumClosest(bruteforce).py)|Medium|Brute Force|
 |19.|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/Medium/19.RemoveNthNodeFromEndofList.py)|Medium|`Stack`|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|
@@ -158,6 +159,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |237.|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](/Easy/237.DeleteNodeinaLinkedList.py)|Easy|`Linked List`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
+|258.|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](/Easy/258.AddDigits.py)|Easy||
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
 |274.|[H-Index](https://leetcode.com/problems/h-index/)|[Python](/Medium/274.H-Index.py)|Medium|
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
@@ -205,6 +207,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Medium/450.DeleteNodeinaBST.py)|Medium|`Binary Search Tree`, `Recursion`|
 |451.|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](/Medium/451.SortCharactersByFrequency.py)|Medium|Surprisingly fast solution|
 |452.|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[Python](/Medium/452.MinimumNumberofArrowstoBurstBalloons.py)|Medium||
+|454.|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python](/Medium/454.4SumII.py)|Medium|`Dictionary`|
 |456.|[132 Pattern](https://leetcode.com/problems/132-pattern/)|[Python](/Medium/456.132Pattern.py)|Medium|Brute Force|
 |458.|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[Python](/Hard/458.PoorPigs.py)|Hard|`math`|
 |459.|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](/Easy/459.RepeatedSubstringPattern.py)|Easy||
@@ -229,6 +232,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |532.|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](/Medium/532.K-diffPairsinanArray.py)|Medium|Brute force|
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
 |538.|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](/Easy/538.ConvertBSTtoGreaterTree.py)|Easy|`DFS`, recursion|
+|540.|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python](/Medium/540.SingleElementinaSortedArray.py)|Medium|`Binary Search`|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
 |559.|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](/Easy/559.MaximumDepthofN-aryTree.py)|Easy|`BFS`|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
@@ -284,6 +288,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
+|896.|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](/Easy/896.MonotonicArray.py)|Easy||
 |897.|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](/Easy/897.IncreasingOrderSearchTree.py)|Easy|`DFS`, iteratively|
 |900.|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](/Medium/900.RLEIterator.py)|Medium||
 |905.|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](/Easy/905.SortArrayByParity.py)|Easy|`List`|
@@ -318,6 +323,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1010.|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](/Medium/1010.PairsofSongsWithTotalDurationsDivisibleby60.py)|Medium||
 |1015.|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python](/Medium/1015.SmallestIntegerDivisiblebyK.py)|Medium|counting lenght, Brute Force|
+|1021.|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python](/Easy/1021.RemoveOutermostParentheses.py)|Easy|Overcode|
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
 |1026.|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](/Medium/1026.MaximumDifferenceBetweenNodeandAncestor.py)|Medium|`BFS`, iteratively|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Hard/1032.StreamofCharacters.py)|Hard|`Trie`|
@@ -325,6 +331,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1041.|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Python](/Medium/1041.RobotBoundedInCircle.py)|Medium|`Dictionary`|
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
 |1047.|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python](/Easy/1047.RemoveAllAdjacentDuplicatesInString.py)|Easy|Brute force - resolve|
+|1079.|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python](/Medium/1079.LetterTilePossibilities.py)|Medium|`itertools, permutations`|
 |1094.|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](/Medium/1094.CarPooling.py)|Medium||
 |1095.|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Python](/Hard/1095.FindinMountainArray.py)|Hard|`Binary Search`|
 |1103.|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python](/Easy/1103.DistributeCandiestoPeople.py)|Easy||
@@ -340,11 +347,13 @@ In this repository provided my Python solutions of LeetCode problems.
 |1169.|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)|[Python](/Medium/1169.InvalidTransactions.py)|Medium|Ugly brute force|
 |1171.|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)|[Python](/Medium/1171.RemoveZeroSumConsecutiveNodesfromLinkedList.py)|Medium|Brute Force - resolve|
 |1189.|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[Python](/Easy/1189.MaximumNumberofBalloons.py)|Easy|simple counter|
+|1200.|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Python](/Easy/1200.MinimumAbsoluteDifference.py)|Easy|`Dictionary`|
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
 |1217.|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Python](/Easy/1217.MinimumCosttoMoveChipstoTheSamePosition.py)|Easy|simple counter|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
 |1252.|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](/Easy/1252.CellswithOddValuesinaMatrix.py)|Easy||
 |1261.|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python](/Medium/1261.FindElementsinaContaminatedBinaryTree.py)|Medium|`DFS`, iteratively|
+|1266.|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python](/Easy/1266.MinimumTimeVisitingAllPoints.py)|Easy|simple counter|
 |1282.|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](/Medium/1282.GroupthePeopleGiventheGroupSizeTheyBelongTo.py)|Medium||
 |1283.|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](/Medium/1283.FindtheSmallestDivisorGivenaThreshold.py)|Medium|`Binary Search`|
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
@@ -387,6 +396,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|`Dictionary`|
 |1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder(list).py)|Easy|`List`|
 |1403.|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[Python](/Easy/1403.MinimumSubsequenceinNon-IncreasingOrder.py)|Easy|sum (`int`) comparison|
+|1409.|[Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/)|[Python](/Medium/1409.QueriesonaPermutationWithKey.py)|Medium||
 |1410.|[HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)|[Python](/Medium/1410.HTMLEntityParser.py)|Medium|`Re.sub`|
 |1423.|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](/Medium/1423.MaximumPointsYouCanObtainfromCards.py)|Medium|`Sliding Window`|
 |1426.|[Counting Elements](https://leetcode.com/problems/counting-elements)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/CountingElements.py)|Easy|
@@ -461,9 +471,12 @@ In this repository provided my Python solutions of LeetCode problems.
 |1672.|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](/Easy/1672.RichestCustomerWealth.py)|Easy||
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation(replace).py)|Easy|`.replace()`|
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation.py)|Easy|iteratively|
+|1679.|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](/Medium/1679.MaxNumberofK-SumPairs.py)|Medium|`collections`, `Counter`|
 |1680.|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[Python](/Medium/1680.ConcatenationofConsecutiveBinaryNumbers.py)|Medium||
 |1684.|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Python](/Easy/1684.CounttheNumberofConsistentStrings.py)|Easy||
 |1685.|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|[Python](/Medium/1685.SumofAbsoluteDifferencesinaSortedArray.py)|Medium||
+|1688.|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](/Easy/1688.CountofMatchesinTournament.py)|Easy|simple counter|
+|1689.|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](/Medium/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)|Medium|`max()`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
