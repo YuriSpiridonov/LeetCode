@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-432%2F1538-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-440%2F1538-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,8 @@ In this repository provided my Python solutions of LeetCode problems.
 *P.S. If you like this, please leave me a star.* ★
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
-|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.TwoSum.py)|Easy|
+|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](/Easy/1.TwoSum.py)|Easy|
+|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](/Easy/1.TwoSum(optimized).py)|Easy|optimized soln|
 |2.|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](/Medium/2.AddTwoNumbers.py)|Medium|`Linked List` + brute force|
 |3.|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](/Medium/3.LongestSubstringWithoutRepeatingCharacters.py)|Medium|Kinda brute force|
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
