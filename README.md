@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-440%2F1538-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-442%2F1539-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -171,6 +171,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Easy/299.BullsandCows.py)|Easy||
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce).py)|Medium|Brute force|
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|A bit optimized but still brute force|
+|334.|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Python](Medium/334.IncreasingTripletSubsequence.py)|Medium|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|
