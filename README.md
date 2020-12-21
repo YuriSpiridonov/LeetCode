@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-448%2F1543-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-454%2F1543-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -295,6 +295,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |897.|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](/Easy/897.IncreasingOrderSearchTree.py)|Easy|`DFS`, iteratively|
 |900.|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](/Medium/900.RLEIterator.py)|Medium||
 |905.|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](/Easy/905.SortArrayByParity.py)|Easy|`List`|
+|908.|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](/Easy/908.SmallestRangeI.py)|Easy||
+|910.|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](/Medium/910.SmallestRangeII.py)|Medium||
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
