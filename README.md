@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-454%2F1543-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-455%2F1543-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -86,6 +86,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |103.|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](/Medium/103.BinaryTreeZigzagLevelOrderTraversal.py)|Medium|`BFS`|
 |104.|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](/Easy/104.MaximumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |107.|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](/Easy/107.BinaryTreeLevelOrderTraversalII.py)|Easy|`BFS`|
+|110.|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](/Easy/110.BalancedBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |111.|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](/Easy/111.MinimumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](/Easy/112.PathSum.py)|Easy|`Binary Tree`, `Recursion`|
 |116.|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](/Medium/116.PopulatingNextRightPointersinEachNode.py)|Medium|`BFS`|
