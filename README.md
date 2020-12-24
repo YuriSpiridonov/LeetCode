@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-456%2F1543-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-457%2F1544-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -257,6 +257,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |665.|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](/Easy/665.Non-decreasingArray.py)|Easy|Brute Force|
 |671.|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](/Easy/671.SecondMinimumNodeInaBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |674.|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](/Easy/674.LongestContinuousIncreasingSubsequence.py)|Easy|simple counter|
+|677.|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Python](/Medium/677.MapSumPairs.py)|Medium|`Trie`|
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
 |682.|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](/Easy/682.BaseballGame.py)|Easy||
 |700.|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](/Easy/700.SearchinaBinarySearchTree.py)|Easy|`Binary Search Tree`, `Recursion`|
