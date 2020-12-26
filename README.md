@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-458%2F1544-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-459%2F1544-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -194,6 +194,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |392.|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Python](/Easy/392.IsSubsequence.py)|Easy||
 |394.|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](/Medium/394.DecodeString.py)|Medium|`Stack`|
 |395.|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](/Medium/395.LongestSubstringwithAtLeastKRepeatingCharacters.py)|Medium|`collections`, `Recursion`|
+|398.|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Python](/Medium/398.RandomPickIndex.py)|Medium|`random.choice()`|
 |399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Medium/399.EvaluateDivision.py)|Medium|God bless youtube|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
@@ -334,6 +335,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1015.|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python](/Medium/1015.SmallestIntegerDivisiblebyK.py)|Medium|counting lenght, Brute Force|
 |1021.|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python](/Easy/1021.RemoveOutermostParentheses.py)|Easy|Overcode|
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
+|1025.|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](/Easy/1025.DivisorGame.py)|Easy||
 |1026.|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[Python](/Medium/1026.MaximumDifferenceBetweenNodeandAncestor.py)|Medium|`BFS`, iteratively|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Hard/1032.StreamofCharacters.py)|Hard|`Trie`|
 |1038.|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[Python](/Medium/1038.BinarySearchTreetoGreaterSumTree.py)|Medium|`DFS`, `recursion`|
@@ -360,6 +362,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1207.|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](/Easy/1207.UniqueNumberofOccurrences.py)|Easy|`Dictionary`|
 |1217.|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[Python](/Easy/1217.MinimumCosttoMoveChipstoTheSamePosition.py)|Easy|simple counter|
 |1221.|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](/Easy/1221.SplitaStringinBalancedStrings.py)|Easy|`Stack`|
+|1227.|[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)|[Python](/Medium/1227.AirplaneSeatAssignmentProbability.py)|Medium||
 |1252.|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Python](/Easy/1252.CellswithOddValuesinaMatrix.py)|Easy||
 |1261.|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python](/Medium/1261.FindElementsinaContaminatedBinaryTree.py)|Medium|`DFS`, iteratively|
 |1266.|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python](/Easy/1266.MinimumTimeVisitingAllPoints.py)|Easy|simple counter|
@@ -376,6 +379,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1306.|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Python](/Medium/1306.JumpGameIII.py)|Medium|`BFS`, iteratively|
 |1309.|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](/Easy/1309.DecryptStringfromAlphabettoIntegerMapping.py)|Easy||
 |1313.|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](/Easy/1313.DecompressRun-LengthEncodedList.py)|Easy||
+|1315.|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Python](/Medium/1315.SumofNodeswithEven-ValuedGrandparent.py)|Medium|`DFS`, `recursion`|
 |1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
 |1325.|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](/Medium/1325.DeleteLeavesWithaGivenValue.py)|Medium|`DFS`, `recursion`|
 |1331.|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](/Easy/1331.RankTransformofanArray.py)|Easy|`Enumerate`|
@@ -417,11 +421,13 @@ In this repository provided my Python solutions of LeetCode problems.
 |1431.|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](/Easy/1431.KidsWiththeGreatestNumberofCandies.py)|Easy|`List comprehension`|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(dict).py)|Easy|`Dictionary`|
 |1436.|[Destination City](https://leetcode.com/problems/destination-city/)|[Python](/Easy/1436.DestinationCity(set).py)|Easy|`Set`|
+|1437.|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[Python](/Medium/1437.CheckIfAll1sAreatLeastLengthKPlacesAway.py)|Medium||
 |1441.|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python](/Easy/1441.BuildanArrayWithStackOperations.py)|Easy|`List`|
 |1446.|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](/Easy/1446.ConsecutiveCharacters.py)|Easy|`Two pointers`|
 |1450.|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](/Easy/1450.NumberofStudentsDoingHomeworkataGivenTime.py)|Easy|`Enumerate`|
 |1455.|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](/Easy/1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)|Easy|`Enumerate`|
 |1460.|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](/Easy/1460.MakeTwoArraysEqualbyReversingSub-arrays.py)|Easy||
+|1463.|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[Python](/Hard/1463.CherryPickupII.py)|Hard|`DFS`, `lfu cache`|
 |1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory.py)|Medium|`Doubly Linked List`|
@@ -475,6 +481,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1652.|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](/Easy/1652.DefusetheBomb.py)|Easy||
 |1656.|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](/Easy/1656.DesignanOrderedStream.py)|Easy|`list`|
 |1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|`.join()`|
+|1663.|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](/Medium/1663.SmallestStringWithAGivenNumericValue.py)|Medium||
 |1668.|[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[Python](/Easy/1668.MaximumRepeatingSubstring.py)|Easy||
 |1669.|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python](/Medium/1669.MergeInBetweenLinkedLists.py)|Medium|`Linked List`|
 |1670.|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)|[Python](/Medium/1670.DesignFrontMiddleBackQueue.py)|Medium|`List`|
@@ -487,6 +494,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1685.|[Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|[Python](/Medium/1685.SumofAbsoluteDifferencesinaSortedArray.py)|Medium||
 |1688.|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[Python](/Easy/1688.CountofMatchesinTournament.py)|Easy|simple counter|
 |1689.|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](/Medium/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)|Medium|`max()`|
+|1694.|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](/Easy/1694.ReformatPhoneNumber.py)|Easy||
+|1695.|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](/Medium/1695.MaximumErasureValue.py)|Medium||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
