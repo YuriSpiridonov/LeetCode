@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-459%2F1544-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-460%2F1552-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -386,6 +386,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1338.|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Python](/Medium/1338.ReduceArraySizetoTheHalf.py)|Medium|`Dictionary`, `Enumerate`|
 |1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
+|1345.|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Python](/Hard/1345.JumpGameIV.py)|Hard|`BFS`, iteratively|
 |1347.|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Python](/Medium/1347.MinimumNumberofStepstoMakeTwoStringsAnagram.py)|Medium||
 |1348.|[Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)|[Python](/Medium/1348.TweetCountsPerFrequency.py)|Medium|Too slow, need to resolve it|
 |1351.|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Python](/Easy/1351.CountNegativeNumbersinaSortedMatrix(binarySearch).py)|Easy|`Binary Search`|
