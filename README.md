@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-460%2F1552-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-461%2F1552-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -273,6 +273,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |735.|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](/Medium/735.AsteroidCollision.py)|Medium|`Stack`|
 |744.|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](/Easy/744.FindSmallestLetterGreaterThanTarget.py)|Easy|`Binary Search`|
+|754.|[Reach a Number](https://leetcode.com/problems/reach-a-number/)|[Python](/Medium/754.ReachaNumber.py)|Medium|Math|
 |763.|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[Python](/Medium/763.PartitionLabels(bruteforce).py)|Medium|Brute Force - resolve|
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |804.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](/Easy/804.UniqueMorseCodeWords.py)|Easy|`Dictionary`|
