@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-461%2F1552-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-462%2F1552-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -428,6 +428,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1446.|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](/Easy/1446.ConsecutiveCharacters.py)|Easy|`Two pointers`|
 |1450.|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](/Easy/1450.NumberofStudentsDoingHomeworkataGivenTime.py)|Easy|`Enumerate`|
 |1455.|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](/Easy/1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)|Easy|`Enumerate`|
+|1457.|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](/Medium/1457.Pseudo-PalindromicPathsinaBinaryTree.py)|Medium|`DFS`, `recursion`|
 |1460.|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](/Easy/1460.MakeTwoArraysEqualbyReversingSub-arrays.py)|Easy||
 |1463.|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[Python](/Hard/1463.CherryPickupII.py)|Hard|`DFS`, `lfu cache`|
 |1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
