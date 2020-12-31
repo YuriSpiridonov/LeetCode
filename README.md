@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-463%2F1552-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-465%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -500,6 +500,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1689.|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](/Medium/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)|Medium|`max()`|
 |1694.|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[Python](/Easy/1694.ReformatPhoneNumber.py)|Easy||
 |1695.|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](/Medium/1695.MaximumErasureValue.py)|Medium||
+|1700.|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](/Easy/1700.NumberofStudentsUnabletoEatLunch.py)|Easy|simple counter|
+|1704.|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](/Easy/1704.DetermineifStringHalvesAreAlike.py)|Easy|simple counter|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
