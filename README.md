@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-465%2F1553-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-466%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -464,6 +464,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
 |1566.|[Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)|[Python](/Easy/1566.DetectPatternofLengthMRepeatedKorMoreTimes.py)|Easy||
+|1567.|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)|[Python](/Medium/1567.MaximumLengthofSubarrayWithPositiveProduct.py)|Medium|kinda Brute force|
 |1572.|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Python](/Easy/1572.MatrixDiagonalSum.py)|Easy||
 |1576.|[Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)|[Python](/Easy/1576.ReplaceAllQuestionmarkstoAvoidConsecutiveRepeatingCharacters.py)|Easy|Fast but awful soln.|
 |1582.|[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|[Python](/Easy/1582.SpecialPositionsinaBinaryMatrix.py)|Easy||
