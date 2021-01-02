@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-466%2F1553-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-467%2F1553-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -399,6 +399,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1352.|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Python](/Medium/1352.ProductoftheLastKNumbers(Revisited).py)|Medium||
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders(BruteForce).py)|Medium|Brute Force|
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders.py)|Medium|`Dictionary`|
+|1361.|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python](/Medium/1361.ValidateBinaryTreeNodes.py)|Medium|`BFS`, iteratively|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
 |1370.|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](/Easy/1370.IncreasingDecreasingString.py)|Easy||
 |1374.|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](/Easy/1374.GenerateaStringWithCharactersThatHaveOddCounts.py)|Easy||
