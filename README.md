@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-468%2F1557-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-469%2F1557-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -298,6 +298,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |872.|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](/Easy/872.Leaf-SimilarTrees.py)|Easy|`Recursion`|
 |876.|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/MiddleoftheLinkedList.py)|Easy|
 |880.|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python](/Medium/880.DecodedStringatIndex.py)|Medium|
+|884.|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](/Easy/884.UncommonWordsfromTwoSentences.py)|Easy|simple counter|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
 |896.|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](/Easy/896.MonotonicArray.py)|Easy||
 |897.|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](/Easy/897.IncreasingOrderSearchTree.py)|Easy|`DFS`, iteratively|
