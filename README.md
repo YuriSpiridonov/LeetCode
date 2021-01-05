@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-469%2F1557-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-470%2F1557-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -506,6 +506,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1695.|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](/Medium/1695.MaximumErasureValue.py)|Medium||
 |1700.|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](/Easy/1700.NumberofStudentsUnabletoEatLunch.py)|Easy|simple counter|
 |1704.|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](/Easy/1704.DetermineifStringHalvesAreAlike.py)|Easy|simple counter|
+|1710.|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python](/Easy/1710.MaximumUnitsonaTruck.py)|Easy|`Dictionary`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
