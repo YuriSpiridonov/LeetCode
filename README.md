@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-472%2F1557-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-473%2F1557-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -175,6 +175,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Easy/299.BullsandCows.py)|Easy||
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce).py)|Medium|Brute force|
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|A bit optimized but still brute force|
+|328.|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](/Medium/328.OddEvenLinkedList.py)|Medium|`Linked List`|
 |334.|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Python](Medium/334.IncreasingTripletSubsequence.py)|Medium|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
