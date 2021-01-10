@@ -36,7 +36,7 @@ class Solution:
     def binarySearch(self, arr: int, num: int, length: int) -> int:
         l = 0
         r = length - 1
-        q = (length+1)//4
+        q = length // 4
         while l < r:
             m = (l+r) // 2
             if arr[m] == num and arr[min(length-1, m+q)] == num:
