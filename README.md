@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-474%2F1557-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-477%2F1566-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -274,6 +274,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |707.|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](/Medium/707.DesignLinkedList.py)|Medium|`Linked List`, first time|
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
 |713.|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](/Medium/713.SubarrayProductLessThanK.py)|Medium|`Two pointers`|
+|722.|[Remove Comments](https://leetcode.com/problems/remove-comments/)|[Python](/Medium/722.RemoveComments.py)|Medium|`String`|
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |735.|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](/Medium/735.AsteroidCollision.py)|Medium|`Stack`|
 |744.|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](/Easy/744.FindSmallestLetterGreaterThanTarget.py)|Easy|`Binary Search`|
@@ -309,6 +310,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |908.|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](/Easy/908.SmallestRangeI.py)|Easy||
 |910.|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](/Medium/910.SmallestRangeII.py)|Medium||
 |911.|[Online Election](https://leetcode.com/problems/online-election/)|[Python](/Medium/911.OnlineElection.py)|Medium|`Binary Search`|
+|912.|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](/Medium/912.SortanArray.py)|Medium|`sorted()`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
@@ -377,6 +379,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1282.|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](/Medium/1282.GroupthePeopleGiventheGroupSizeTheyBelongTo.py)|Medium||
 |1283.|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](/Medium/1283.FindtheSmallestDivisorGivenaThreshold.py)|Medium|`Binary Search`|
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
+|1287.|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Python](/Easy/1287.ElementAppearingMoreThan25InSortedArray(for).py)|Easy|`for` loop|
+|1287.|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[Python](/Easy/1287.ElementAppearingMoreThan25InSortedArray(binarySearch).py)|Easy|`Binary Search`|
 |1288.|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Python](/Medium/1288.RemoveCoveredIntervals.py)|Medium|Brute force|
 |1290.|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[Python](/Easy/1290.ConvertBinaryNumberinaLinkedListtoInteger.py)|Easy||
 |1291.|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](/Medium/1291.SequentialDigits.py)|Medium|`String`, can be solved with `int`|
