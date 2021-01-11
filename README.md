@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-477%2F1566-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-482%2F1566-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -167,6 +167,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |274.|[H-Index](https://leetcode.com/problems/h-index/)|[Python](/Medium/274.H-Index.py)|Medium|
 |275.|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Python](/Medium/275.H-IndexII.py)|Medium|Solution for problem #274 worked fine|
 |283.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MoveZeroes.py)|Easy|
+|284.|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](/Medium/284.PeekingIterator.py)|Medium||
 |289.|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Python](/Medium/289.GameofLife.py)|Medium||
 |290.|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](/Easy/290.WordPattern.py)|Easy|`Dictionary`, `enumerate`|
 |295.|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](/Hard/295.FindMedianfromDataStream(bruteforce).py)|Hard|Brute Force|
@@ -274,6 +275,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |707.|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](/Medium/707.DesignLinkedList.py)|Medium|`Linked List`, first time|
 |709.|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](/Easy/709.ToLowerCase.py)|Easy|Two solutions. 1st w. in place changes, 2nd saves in var|
 |713.|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[Python](/Medium/713.SubarrayProductLessThanK.py)|Medium|`Two pointers`|
+|720.|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](/Easy/720.LongestWordinDictionary.py)|Easy|`Trie`|
 |722.|[Remove Comments](https://leetcode.com/problems/remove-comments/)|[Python](/Medium/722.RemoveComments.py)|Medium|`String`|
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
 |735.|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](/Medium/735.AsteroidCollision.py)|Medium|`Stack`|
@@ -515,6 +517,9 @@ In this repository provided my Python solutions of LeetCode problems.
 |1700.|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[Python](/Easy/1700.NumberofStudentsUnabletoEatLunch.py)|Easy|simple counter|
 |1704.|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](/Easy/1704.DetermineifStringHalvesAreAlike.py)|Easy|simple counter|
 |1710.|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python](/Easy/1710.MaximumUnitsonaTruck.py)|Easy|`Dictionary`|
+|1716.|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Python](/Easy/1716.CalculateMoneyinLeetcodeBank.py)|Easy||
+|1720.|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python](/Easy/1720.DecodeXORedArray.py)|Easy||
+|1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|`Linked List`, `Queue`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
