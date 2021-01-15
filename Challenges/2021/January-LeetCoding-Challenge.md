@@ -1,0 +1,64 @@
+# January LeetCoding Challenge 2021
+In this repository provided my Python solutions of January LeetCoding Challenge problems.
+
+## Introduction
+In this repository provided my Python solutions of January LeetCoding Challenge problems. 
+- I highly recommend you to try and solve problems yourself before look at the solutions here.
+- Solutions and approaches may be not optimal.
+- All Solutions here are in Python 3.
+
+## Notes
+None
+
+## Week 1
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1640.|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](/Easy/1640.CheckArraFormationThroughConcatenation.py)|Easy|
+|1379.|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](/Medium/1379.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree(iteratively).py)|Medium|
+|526.|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](/Medium/526.BeautifulArrangement.py)|Medium|
+|21.|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](/Easy/21.MergeTwoSortedLists.py)|Easy|
+|82.|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](/Medium/82.RemoveDuplicatesfromSortedListII.py)|Medium|
+|1539.|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python](/Easy/1539.KthMissingPositiveNumber.py)|Easy|
+|3.|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](/Medium/3.LongestSubstringWithoutRepeatingCharacters.py)|Medium|
+
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|
+|127.|[Word Ladder](https://leetcode.com/problems/word-ladder/)|~~Python~~|Hard|
+|1649.|[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)|~~Python~~|Hard|
+|88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](/Easy/88.MergeSortedArray.py)|Easy|
+|2.|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](/Medium/2.AddTwoNumbers.py)|Medium|
+|881.|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](/Medium/881.BoatstoSavePeople.py)|Medium|
+|1658.|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Python](/Medium/1658.MinimumOperationstoReduceXtoZero.py)|Medium|
+
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|
+
+
+
+
+
+
+
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+
+
+
+
+
+
+
+
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+
+
+
+## License
+The code is open-source and licensed under the [MIT License](/LICENSE).
