@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-486%2F1567-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-487%2F1567-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -16,8 +16,9 @@ In this repository provided my Python solutions of LeetCode problems.
 - [September LeetCoding Challenge](/Challenges/2020/September-LeetCoding-Challenge.md) - 30/30
 - [November LeetCoding Challenge](/Challenges/2020/November-LeetCoding-Challenge.md) - 24/30
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
+
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 13/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 14/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -41,6 +42,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|
 |21.|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](/Easy/21.MergeTwoSortedLists.py)|Easy|`Linked List`|
 |24.|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](/Medium/24.SwapNodesinPairs.py)|Medium|`Linked List`|
+|25.|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](/Hard/25.ReverseNodesink-Group.py)|Hard|`Linked List`, `Stack`|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
