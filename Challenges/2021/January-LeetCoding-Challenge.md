@@ -43,22 +43,5 @@ None
 
 
 
-## Week 4
-|№|Title|Solution|Difficulty|
-| ----: | --- | --- | --- |
-
-
-
-
-
-
-
-
-## Week 5
-|№|Title|Solution|Difficulty|
-| ----: | --- | --- | --- |
-
-
-
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
