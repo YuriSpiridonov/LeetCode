@@ -37,7 +37,7 @@ None
 | ----: | --- | --- | --- |
 |1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|
-
+|1641.|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python](/Medium/1641.CountSortedVowelStrings.py)|Medium|
 
 
 

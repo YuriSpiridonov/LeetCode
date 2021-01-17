@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-487%2F1567-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-491%2F1567-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -10,8 +10,8 @@ In this repository provided my Python solutions of LeetCode problems.
 - Solutions and approaches may be not optimal (I'm learning and practicing DSA & committing my solutions).
 - All Solutions here are in Python 3.
 ## LeetCoding Challenges
-2020:
 
+2020:
 - [April LeetCoding Challenge](/Challenges/2020/April-LeetCoding-Challenge.md) - 28/30
 - [August LeetCoding Challenge](/Challenges/2020/August-LeetCoding-Challenge.md) - 31/31
 - [September LeetCoding Challenge](/Challenges/2020/September-LeetCoding-Challenge.md) - 30/30
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 14/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 15/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -42,6 +42,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|
 |21.|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](/Easy/21.MergeTwoSortedLists.py)|Easy|`Linked List`|
+|23.|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](/Hard/23.MergekSortedLists.py)|Hard|`Linked List`, not exactly what was aked|
 |24.|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](/Medium/24.SwapNodesinPairs.py)|Medium|`Linked List`|
 |25.|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](/Hard/25.ReverseNodesink-Group.py)|Hard|`Linked List`, `Stack`|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
@@ -112,6 +113,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |134.|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](/Medium/134.GasStation.py)|Medium||
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|
 |137.|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Python](/Medium/137.SingleNumberII.py)|Medium|Brute Force|
+|138.|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](/Medium/138.CopyListwithRandomPointer.py)|Medium|`Linked List`|
 |139.|[Word Break](https://leetcode.com/problems/word-break/)|[Python](/Medium/139.WordBreak.py)|Medium|Watched how to complete|
 |141.|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](/Easy/141.LinkedListCycle(BruteForce).py)|Easy|`Linked List`, Brute Force|
 |141.|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python](/Easy/141.LinkedListCycle.py)|Easy|`Linked List`, `set()`|
@@ -423,6 +425,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1357.|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Python](/Medium/1357.ApplyDiscountEverynOrders.py)|Medium|`Dictionary`|
 |1361.|[Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[Python](/Medium/1361.ValidateBinaryTreeNodes.py)|Medium|`BFS`, iteratively|
 |1365.|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](/Easy/1365.HowManyNumbersAreSmallerThantheCurrentNumber.py)|Easy|`List comprehension`|
+|1367.|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Python](/Medium/1367.LinkedListinBinaryTree.py)|Medium|`DFS`, `Linked List`, `Binary Tree`|
 |1370.|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Python](/Easy/1370.IncreasingDecreasingString.py)|Easy||
 |1374.|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](/Easy/1374.GenerateaStringWithCharactersThatHaveOddCounts.py)|Easy||
 |1379.|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Python](/Medium/1379.FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree(iteratively).py)|Medium|`Stack`, iteratively|
@@ -504,6 +507,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1636.|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python](/Easy/1636.SortArraybyIncreasingFrequency.py)|Easy|complicated counter|
 |1637.|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Python](/Medium/1637.WidestVerticalAreaBetweenTwoPointsContainingNoPoints.py)|Medium||
 |1640.|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](/Easy/1640.CheckArraFormationThroughConcatenation.py)|Easy||
+|1641.|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python](/Medium/1641.CountSortedVowelStrings.py)|Medium|`itertools`|
 |1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray(while).py)|Easy|`while`|
 |1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|`for`|
 |1652.|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](/Easy/1652.DefusetheBomb.py)|Easy||

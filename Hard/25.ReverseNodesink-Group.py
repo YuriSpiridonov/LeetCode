@@ -13,23 +13,23 @@
         - You may not alter the values in the list's nodes, 
           only nodes itself may be changed.
 
-    Example 1:
+    Example:
             1 -> 2 -> 3 -> 4 -> 5 -> None
             2 -> 1 -> 4 -> 3 -> 5 -> None
     Input: head = [1,2,3,4,5], k = 2
     Output: [2,1,4,3,5]
 
-    Example 2:
+    Example:
             1 -> 2 -> 3 -> 4 -> 5 -> None
             3 -> 2 -> 1 -> 4 -> 5 -> None
     Input: head = [1,2,3,4,5], k = 3
     Output: [3,2,1,4,5]
 
-    Example 3:
+    Example:
     Input: head = [1,2,3,4,5], k = 1
     Output: [1,2,3,4,5]
 
-    Example 4:
+    Example:
     Input: head = [1], k = 1
     Output: [1]
 
