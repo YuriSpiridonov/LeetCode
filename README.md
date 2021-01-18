@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-491%2F1567-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-494%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 15/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 16/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -355,6 +355,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1009.|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](/Easy/1009.ComplementofBase10Integer.py)|Easy||
 |1010.|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Python](/Medium/1010.PairsofSongsWithTotalDurationsDivisibleby60.py)|Medium||
 |1015.|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python](/Medium/1015.SmallestIntegerDivisiblebyK.py)|Medium|counting lenght, Brute Force|
+|1019.|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Python](/Medium/1019.NextGreaterNodeInLinkedList.py)|Medium||
 |1021.|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)|[Python](/Easy/1021.RemoveOutermostParentheses.py)|Easy|Overcode|
 |1022.|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[Python](/Easy/1022.SumofRootToLeafBinaryNumbers.py)|Easy|`DFS`, `Recursion`|
 |1025.|[Divisor Game](https://leetcode.com/problems/divisor-game/)|[Python](/Easy/1025.DivisorGame.py)|Easy||
@@ -453,6 +454,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |1437.|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[Python](/Medium/1437.CheckIfAll1sAreatLeastLengthKPlacesAway.py)|Medium||
 |1441.|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Python](/Easy/1441.BuildanArrayWithStackOperations.py)|Easy|`List`|
 |1446.|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Python](/Easy/1446.ConsecutiveCharacters.py)|Easy|`Two pointers`|
+|1448.|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](/Medium/1448.CountGoodNodesinBinaryTree.py)|Medium|`DFS`, `Binary Tree`|
+|1448.|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](/Medium/1448.CountGoodNodesinBinaryTree(optimized).py)|Medium|optimized `DFS`, `Binary Tree`|
 |1450.|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|[Python](/Easy/1450.NumberofStudentsDoingHomeworkataGivenTime.py)|Easy|`Enumerate`|
 |1455.|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](/Easy/1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)|Easy|`Enumerate`|
 |1457.|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](/Medium/1457.Pseudo-PalindromicPathsinaBinaryTree.py)|Medium|`DFS`, `recursion`|
@@ -535,6 +538,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1716.|[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[Python](/Easy/1716.CalculateMoneyinLeetcodeBank.py)|Easy||
 |1720.|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python](/Easy/1720.DecodeXORedArray.py)|Easy||
 |1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|`Linked List`, `Queue`|
+|1725.|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Python](/Easy/1725.NumberOfRectanglesThatCanFormTheLargestSquare.py)|Easy|`collections.defaultdict`|
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
