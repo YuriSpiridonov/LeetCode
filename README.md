@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-494%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-495%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 16/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 17/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -30,6 +30,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |2.|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](/Medium/2.AddTwoNumbers.py)|Medium|`Linked List` + brute force|
 |3.|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](/Medium/3.LongestSubstringWithoutRepeatingCharacters.py)|Medium|Kinda brute force|
 |4.|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Hard/MedianofTwoSortedArrays.py)|Hard|
+|5.|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](Medium/5.LongestPalindromicSubstring(bruteforce).py)|Medium|Brute Force|
 |7.|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/7.ReverseInteger.py)|Easy|
 |9.|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/9.PalindromeNumber.py)|Easy|Without converting `integer` into `string`|
 |11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|`Two Pointers`|

@@ -39,7 +39,7 @@ None
 |215.|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](/Medium/215.KthLargestElementinanArray.py)|Medium|
 |1641.|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python](/Medium/1641.CountSortedVowelStrings.py)|Medium|
 |1679.|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](/Medium/1679.MaxNumberofK-SumPairs.py)|Medium|
-
+|5.|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](Medium/5.LongestPalindromicSubstring(bruteforce).py)|Medium|
 
 
 
