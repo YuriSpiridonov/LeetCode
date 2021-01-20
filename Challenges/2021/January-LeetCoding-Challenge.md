@@ -40,7 +40,7 @@ None
 |1641.|[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Python](/Medium/1641.CountSortedVowelStrings.py)|Medium|
 |1679.|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](/Medium/1679.MaxNumberofK-SumPairs.py)|Medium|
 |5.|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](Medium/5.LongestPalindromicSubstring(bruteforce).py)|Medium|
-
+|20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|
 
 
 ## License
