@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-496%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-499%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 18/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 19/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -209,6 +209,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |395.|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[Python](/Medium/395.LongestSubstringwithAtLeastKRepeatingCharacters.py)|Medium|`collections`, `Recursion`|
 |398.|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Python](/Medium/398.RandomPickIndex.py)|Medium|`random.choice()`|
 |399.|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[Python](/Medium/399.EvaluateDivision.py)|Medium|God bless youtube|
+|402.|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Python](/Medium/402.RemoveKDigits.py)|Medium|`Stack`|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Easy/404.SumofLeftLeaves.py)|Easy|`Recursion`, preorder|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Easy/412.FizzBuzz.py)|Easy||
@@ -524,6 +525,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1669.|[Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Python](/Medium/1669.MergeInBetweenLinkedLists.py)|Medium|`Linked List`|
 |1670.|[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)|[Python](/Medium/1670.DesignFrontMiddleBackQueue.py)|Medium|`List`|
 |1672.|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](/Easy/1672.RichestCustomerWealth.py)|Easy||
+|1673.|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python](/Medium/1673.FindtheMostCompetitiveSubsequence.py)|Medium|`Stack`|
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation(replace).py)|Easy|`.replace()`|
 |1678.|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Python](/Easy/1678.GoalParserInterpretation.py)|Easy|iteratively|
 |1679.|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](/Medium/1679.MaxNumberofK-SumPairs.py)|Medium|`collections`, `Counter`|

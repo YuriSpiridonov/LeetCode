@@ -41,7 +41,7 @@ None
 |1679.|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](/Medium/1679.MaxNumberofK-SumPairs.py)|Medium|
 |5.|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](Medium/5.LongestPalindromicSubstring(bruteforce).py)|Medium|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|
-
+|1673.|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python](/Medium/1673.FindtheMostCompetitiveSubsequence.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
