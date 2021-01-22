@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 19/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 20/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -518,6 +518,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1646.|[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[Python](/Easy/1646.GetMaximuminGeneratedArray.py)|Easy|`for`|
 |1652.|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Python](/Easy/1652.DefusetheBomb.py)|Easy||
 |1656.|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Python](/Easy/1656.DesignanOrderedStream.py)|Easy|`list`|
+|1657.|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Python](/Medium/1657.DetermineifTwoStringsAreClose.py)|Medium|`collections.Counter`|
 |1658.|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Python](/Medium/1658.MinimumOperationstoReduceXtoZero.py)|Medium||
 |1662.|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Python](/Easy/1662.CheckIfTwoStringArraysareEquivalent.py)|Easy|`.join()`|
 |1663.|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](/Medium/1663.SmallestStringWithAGivenNumericValue.py)|Medium||
