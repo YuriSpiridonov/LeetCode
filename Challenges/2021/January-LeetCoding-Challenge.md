@@ -43,10 +43,11 @@ None
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|
 |1673.|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[Python](/Medium/1673.FindtheMostCompetitiveSubsequence.py)|Medium|
 
-## Week 3
+## Week 4
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |1657.|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Python](/Medium/1657.DetermineifTwoStringsAreClose.py)|Medium|
+|1329.|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](/Medium/1329.SorttheMatrixDiagonally.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

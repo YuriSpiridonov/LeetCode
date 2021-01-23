@@ -7,4 +7,4 @@
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 20/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 21/31

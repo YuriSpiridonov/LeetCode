@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-499%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-500%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 20/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 21/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -412,6 +412,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1315.|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[Python](/Medium/1315.SumofNodeswithEven-ValuedGrandparent.py)|Medium|`DFS`, `recursion`|
 |1323.|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Python](/Easy/1323.Maximum69Number.py)|Easy||
 |1325.|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[Python](/Medium/1325.DeleteLeavesWithaGivenValue.py)|Medium|`DFS`, `recursion`|
+|1329.|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](/Medium/1329.SorttheMatrixDiagonally.py)|Medium|`List`|
 |1331.|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](/Easy/1331.RankTransformofanArray.py)|Easy|`Enumerate`|
 |1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy||
 |1338.|[Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Python](/Medium/1338.ReduceArraySizetoTheHalf.py)|Medium|`Dictionary`, `Enumerate`|
