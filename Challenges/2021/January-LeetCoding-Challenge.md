@@ -48,6 +48,7 @@ None
 | ----: | --- | --- | --- |
 |1657.|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Python](/Medium/1657.DetermineifTwoStringsAreClose.py)|Medium|
 |1329.|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](/Medium/1329.SorttheMatrixDiagonally.py)|Medium|
+|23.|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](/Hard/23.MergekSortedLists.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

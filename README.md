@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-500%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-501%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 21/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 22/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -545,6 +545,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1720.|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Python](/Easy/1720.DecodeXORedArray.py)|Easy||
 |1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|`Linked List`, `Queue`|
 |1725.|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Python](/Easy/1725.NumberOfRectanglesThatCanFormTheLargestSquare.py)|Easy|`collections.defaultdict`|
+|1732.|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python](/Easy/1732.FindtheHighestAltitude.py)|Easy||
 
 <div align="right">
     <b><a href="#python-solutions-of-leetcode-problems">Back to Top</a></b>
