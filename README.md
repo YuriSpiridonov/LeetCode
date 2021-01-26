@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-501%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-502%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -19,7 +19,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [December LeetCoding Challenge](/Challenges/2020/December-LeetCoding-Challenge.md) - 27/31
 
 2021:
-- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 23/31
+- [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 24/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -511,6 +511,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1624.|[Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[Python](/Easy/1624.LargestSubstringBetweenTwoEqualCharacters.py)|Easy||
 |1629.|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](/Easy/1629.SlowestKey.py)|Easy||
 |1630.|[Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[Python](/Medium/1630.ArithmeticSubarrays.py)|Medium||
+|1631.|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](/Medium/1631.PathWithMinimumEffort.py)|Medium|`DFS`, `Binary Search`, Brute force|
 |1636.|[Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|[Python](/Easy/1636.SortArraybyIncreasingFrequency.py)|Easy|complicated counter|
 |1637.|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Python](/Medium/1637.WidestVerticalAreaBetweenTwoPointsContainingNoPoints.py)|Medium||
 |1640.|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[Python](/Easy/1640.CheckArraFormationThroughConcatenation.py)|Easy||
