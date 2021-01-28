@@ -52,6 +52,7 @@ None
 |1437.|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|[Python](/Medium/1437.CheckIfAll1sAreatLeastLengthKPlacesAway.py)|Medium|
 |1631.|[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[Python](/Medium/1631.PathWithMinimumEffort.py)|Medium|
 |1680.|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[Python](/Medium/1680.ConcatenationofConsecutiveBinaryNumbers.py)|Medium|
+|1663.|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](/Medium/1663.SmallestStringWithAGivenNumericValue.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
