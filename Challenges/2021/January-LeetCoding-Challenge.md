@@ -54,5 +54,10 @@ None
 |1680.|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[Python](/Medium/1680.ConcatenationofConsecutiveBinaryNumbers.py)|Medium|
 |1663.|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](/Medium/1663.SmallestStringWithAGivenNumericValue.py)|Medium|
 
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
