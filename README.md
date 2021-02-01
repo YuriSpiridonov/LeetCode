@@ -140,6 +140,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |172.|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](/Easy/172.FactorialTrailingZeroes.py)|Easy|Brute Force|
 |173.|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](/Medium/173.BinarySearchTreeIterator.py)|Medium|inorder|
 |179.|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](/Medium/179.LargestNumber.py)|Medium|`Bubble sort`|
+|191.|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](/Easy/191.Numberof1Bits.py)|Easy||
 |198.|[House Robber](https://leetcode.com/problems/house-robber/)|[Python](/Easy/198.HouseRobber.py)|Easy||
 |199.|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/Medium/199.BinaryTreeRightSideView.py)|Medium|`BFS`|
 |200.|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/NumberofIslands.py)|Medium|
