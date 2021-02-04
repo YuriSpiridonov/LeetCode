@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-503%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-504%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -262,6 +262,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|`Recursion`|
 |590.|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Python](/Easy/590.N-aryTreePostorderTraversal.py)|Easy|`Recursion`|
 |593.|[Valid Square](https://leetcode.com/problems/valid-square/)|[Python](/Medium/593.ValidSquare.py)|Medium||
+|594.|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](/Easy/594.LongestHarmoniousSubsequence(defaultdict).py)|Easy|defaultdict|
+|594.|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Python](/Easy/594.LongestHarmoniousSubsequence(Counter).py)|Easy|Counter|
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
 |605.|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](/Easy/605.CanPlaceFlowers.py)|Easy|simple counter|
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
