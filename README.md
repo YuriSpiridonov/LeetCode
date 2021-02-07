@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-504%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-505%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge]() - 5/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 6/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -303,6 +303,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |811.|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](/Easy/811.SubdomainVisitCount.py)|Easy|`Dictionary`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents(set).py)|Medium|`Set`|
 |817.|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](/Medium/817.LinkedListComponents.py)|Medium|`List`, 35 times slower|
+|821.|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](/Easy/821.ShortestDistancetoaCharacter.py)|Easy|overcode|
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Easy/824.GoatLatin.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage(reverse).py)|Easy|`.reverse()`|
