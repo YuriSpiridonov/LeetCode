@@ -21,5 +21,10 @@ None
 |199.|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](/Medium/199.BinaryTreeRightSideView.py)|Medium|
 |821.|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](/Easy/821.ShortestDistancetoaCharacter.py)|Easy|
 
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|284.|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](/Medium/284.PeekingIterator.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
