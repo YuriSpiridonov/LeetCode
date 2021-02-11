@@ -60,6 +60,7 @@ None
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|
 |1675.|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|~~Python~~|Hard|
 |31.|[Next Permutation](https://leetcode.com/problems/next-permutation/)|~~Python~~|Medium|
+|242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](/Easy/242.ValidAnagram.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

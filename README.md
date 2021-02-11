@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 9/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 10/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -172,6 +172,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|`Linked List`|
 |237.|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](/Easy/237.DeleteNodeinaLinkedList.py)|Easy|`Linked List`|
 |238.|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ProductofArrayExceptSelf.py)|Medium|
+|242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](/Easy/242.ValidAnagram.py)|Easy|
 |257.|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Python](/Easy/257.BinaryTreePaths.py)|Easy|`Binary Tree` (preorder), `Recursion`|
 |258.|[Add Digits](https://leetcode.com/problems/add-digits/)|[Python](/Easy/258.AddDigits.py)|Easy||
 |260.|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Python](/Medium/260.SingleNumberIII.py)|Medium|`Set`|
