@@ -27,6 +27,9 @@ None
 |284.|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](/Medium/284.PeekingIterator.py)|Medium|
 |538.|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](/Easy/538.ConvertBSTtoGreaterTree.py)|Easy|
 |138.|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Python](/Medium/138.CopyListwithRandomPointer.py)|Medium|
+|242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](/Easy/242.ValidAnagram.py)|Easy|
+|1342.|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1342.NumberofStepstoReduceaNumbertoZero.py)|Easy|`while loop`|
+
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

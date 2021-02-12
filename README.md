@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 10/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 11/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
