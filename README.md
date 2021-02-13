@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-506%2F1571-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-507%2F1571-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 11/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 12/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -374,6 +374,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1046.|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/LastStoneWeight.py)|Easy|
 |1047.|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python](/Easy/1047.RemoveAllAdjacentDuplicatesInString.py)|Easy|Brute force - resolve|
 |1079.|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Python](/Medium/1079.LetterTilePossibilities.py)|Medium|`itertools, permutations`|
+|1091.|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Python](/Medium/1091.ShortestPathinBinaryMatrix.py)|Medium|`BFS`, grid/matrix|
 |1094.|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[Python](/Medium/1094.CarPooling.py)|Medium||
 |1095.|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Python](/Hard/1095.FindinMountainArray.py)|Hard|`Binary Search`|
 |1103.|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python](/Easy/1103.DistributeCandiestoPeople.py)|Easy||
