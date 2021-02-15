@@ -32,5 +32,10 @@ None
 |1091.|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[Python](/Medium/1091.ShortestPathinBinaryMatrix.py)|Medium|
 |785.|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](/Medium/785.IsGraphBipartite.py)|Medium|
 
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1337.|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](/Easy/1337.TheKWeakestRowsinaMatrix.py)|Easy|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
