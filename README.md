@@ -555,6 +555,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|`Linked List`, `Queue`|
 |1725.|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Python](/Easy/1725.NumberOfRectanglesThatCanFormTheLargestSquare.py)|Easy|`collections.defaultdict`|
 |1732.|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python](/Easy/1732.FindtheHighestAltitude.py)|Easy||
+|1748.|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](/Easy/1748.SumofUniqueElements.py)|Easy|`collections.Counter`|
 |1752.|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](/Easy/1752.CheckifArrayIsSortedandRotated.py)|Easy||
 
 <div align="right">
