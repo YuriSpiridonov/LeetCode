@@ -39,6 +39,7 @@ None
 |784.|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|~~Python~~|Medium|
 |11.|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](/Medium/11.ContainerWithMostWater.py)|Medium|
 |413.|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|~~Python~~|Medium|
+|1249.|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
