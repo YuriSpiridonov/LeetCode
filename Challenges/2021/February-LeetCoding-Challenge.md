@@ -41,6 +41,7 @@ None
 |413.|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|~~Python~~|Medium|
 |1249.|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|~~Python~~|Medium|
 |13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](/Easy/13.RomantoInteger.py)|Easy|
+|991.|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](/Medium/991.BrokenCalculator.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

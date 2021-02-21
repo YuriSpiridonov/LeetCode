@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-509%2F1599-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-510%2F1599-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 16/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 17/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -357,6 +357,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](https://github.com/YuriSpiridonov/August-LeetCoding-Challenge-2020/blob/master/Week%204/983.MinimumCostForTickets.py)|Medium|Googled soln|
 |987.|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Python](/Medium/987.VerticalOrderTraversalofaBinaryTree.py)|Medium|`DFS`|
 |989.|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](/Easy/989.AddtoArray-FormofInteger.py)|Easy|`list`->`int`->`list`|
+|991.|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](/Medium/991.BrokenCalculator.py)|Medium|`BFS`|
 |993.|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Python](/Easy/993.CousinsinBinaryTree.py)|Easy|`BFS`, iteratively|
 |994.|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Python](/Medium/994.RottingOranges.py)|Medium|`DFS`|
 |999.|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[Python](/Easy/999.AvailableCapturesforRook.py)|Easy||
