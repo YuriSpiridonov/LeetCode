@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 17/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 18/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -249,6 +249,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |513.|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Python](/Medium/513.FindBottomLeftTreeValue.py)|Medium|`BFS`|
 |515.|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Python](/Medium/515.FindLargestValueinEachTreeRow.py)|Medium|`BFS`|
 |520.|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Python](/Easy/520.DetectCapital.py)|Easy|Built-in functions|
+|524.|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](/Medium/524.LongestWordinDictionarythroughDeleting.py)|Medium||
 |525.|[Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/ContiguousArray.py)|Medium|
 |526.|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[Python](/Medium/526.BeautifulArrangement.py)|Medium|`DFS`, brute force|
 |530.|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Python](/Easy/530.MinimumAbsoluteDifferenceinBST.py)|Easy|Bad solution - resolve|

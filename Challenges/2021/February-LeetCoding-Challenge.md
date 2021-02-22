@@ -43,5 +43,10 @@ None
 |13.|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](/Easy/13.RomantoInteger.py)|Easy|
 |991.|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Python](/Medium/991.BrokenCalculator.py)|Medium|
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|524.|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](/Medium/524.LongestWordinDictionarythroughDeleting.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
