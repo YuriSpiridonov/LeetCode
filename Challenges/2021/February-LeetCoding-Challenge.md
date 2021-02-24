@@ -48,6 +48,7 @@ None
 | ----: | --- | --- | --- |
 |524.|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Python](/Medium/524.LongestWordinDictionarythroughDeleting.py)|Medium|
 |240.|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](/Medium/240.Searcha2DMatrixII.py)|Medium|
+|856.|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
