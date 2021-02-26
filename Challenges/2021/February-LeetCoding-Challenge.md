@@ -50,6 +50,7 @@ None
 |240.|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Python](/Medium/240.Searcha2DMatrixII.py)|Medium|
 |856.|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|~~Python~~|Medium|
 |581.|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](/Medium/581.ShortestUnsortedContinuousSubarray.py)|Medium|
+|946.|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](/Medium/946.ValidateStackSequences.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
