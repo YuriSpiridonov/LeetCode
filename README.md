@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 21/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 22/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -49,6 +49,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |25.|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](/Hard/25.ReverseNodesink-Group.py)|Hard|`Linked List`, `Stack`|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/26.RemoveDuplicatesfromSortedArray.py)|Easy|Several solutions in one file|
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/27.RemoveElement.py)|Easy|
+|29.|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](/Medium/29.DivideTwoIntegers.py)|Medium|
 |33.|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/SearchinRotatedSortedArray.py)|Medium|
 |34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/Medium/34.FindFirstandLastPositionofElementinSortedArray(BinarySearch).py)|Medium|`Binary Search`|
 |34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/34.FindFirstandLastPositionofElementinSortedArray.py)|Medium|
