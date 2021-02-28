@@ -52,6 +52,7 @@ None
 |581.|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](/Medium/581.ShortestUnsortedContinuousSubarray.py)|Medium|
 |946.|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Python](/Medium/946.ValidateStackSequences.py)|Medium|
 |29.|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](/Medium/29.DivideTwoIntegers.py)|Medium|
+|895.|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Python](/Hard/895.MaximumFrequencyStack.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

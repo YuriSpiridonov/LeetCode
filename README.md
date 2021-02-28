@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-513%2F1609-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-514%2F1609-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -20,7 +20,7 @@ In this repository provided my Python solutions of LeetCode problems.
 
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
-- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 22/28
+- [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -328,6 +328,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |881.|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](/Medium/881.BoatstoSavePeople.py)|Medium|`Two Pointers`|
 |884.|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](/Easy/884.UncommonWordsfromTwoSentences.py)|Easy|simple counter|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|`Dictionary`|
+|895.|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Python](/Hard/895.MaximumFrequencyStack.py)|Hard||
 |896.|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](/Easy/896.MonotonicArray.py)|Easy||
 |897.|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](/Easy/897.IncreasingOrderSearchTree.py)|Easy|`DFS`, iteratively|
 |900.|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](/Medium/900.RLEIterator.py)|Medium||
