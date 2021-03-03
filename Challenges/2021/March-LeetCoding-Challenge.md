@@ -15,6 +15,7 @@ None
 | ----: | --- | --- | --- |
 |575.|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Python](/Easy/575.DistributeCandies.py)|Easy|
 |645.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](/Easy/645.SetMismatch.py)|Easy|
+|268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
