@@ -17,6 +17,7 @@ None
 |645.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](/Easy/645.SetMismatch.py)|Easy|
 |268.|[Missing Number](https://leetcode.com/problems/missing-number/)|[Python](/Easy/268.MissingNumber.py)|Easy|
 |160.|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](/Easy/160.IntersectionofTwoLinkedLists.py)|Easy|
+|637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
