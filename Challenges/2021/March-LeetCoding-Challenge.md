@@ -19,6 +19,7 @@ None
 |160.|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](/Easy/160.IntersectionofTwoLinkedLists.py)|Easy|
 |637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|
 |820.|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Python](/Medium/820.ShortEncodingofWords.py)|Medium|
+|706.|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](/Easy/706.DesignHashMap.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
