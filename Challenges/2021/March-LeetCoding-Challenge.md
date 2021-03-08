@@ -21,5 +21,10 @@ None
 |820.|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Python](/Medium/820.ShortEncodingofWords.py)|Medium|
 |706.|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](/Easy/706.DesignHashMap.py)|Easy|
 
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1332.|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](/Easy/1332.RemovePalindromicSubsequences.py)|Easy|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
