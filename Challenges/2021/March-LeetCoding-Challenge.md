@@ -25,6 +25,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |1332.|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Python](/Easy/1332.RemovePalindromicSubsequences.py)|Easy|
+|623.|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](/Medium/623.AddOneRowtoTree.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

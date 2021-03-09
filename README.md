@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-518%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-519%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 8/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 9/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -275,7 +275,8 @@ In this repository provided my Python solutions of LeetCode problems.
 |599.|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Python](/Easy/599.MinimumIndexSumofTwoLists.py)|Easy|`Dictionary`, `enumerate`|
 |605.|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](/Easy/605.CanPlaceFlowers.py)|Easy|simple counter|
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|`Dictionary`, nested `for loop`, `list comprehension`|
-|622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
+|622.|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python](/Medium/622.DesignCircularQueue.py)|Medium|Implement through `list` (first time)|
+|623.|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](/Medium/623.AddOneRowtoTree.py)|Medium|`BFS`|
 |637.|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Python](/Easy/637.AverageofLevelsinBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |641.|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)|[Python](/Medium/641.DesignCircularDeque.py)|Medium|Need to resolve without use of builtin functions (first time)|
 |645.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](/Easy/645.SetMismatch.py)|Easy|`collections.Counter`|
