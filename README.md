@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-519%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-520%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 10/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 11/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -484,6 +484,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1455.|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Python](/Easy/1455.CheckIfaWordOccursAsaPrefixofAnyWordinaSentence.py)|Easy|`Enumerate`|
 |1457.|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[Python](/Medium/1457.Pseudo-PalindromicPathsinaBinaryTree.py)|Medium|`DFS`, `recursion`|
 |1460.|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Python](/Easy/1460.MakeTwoArraysEqualbyReversingSub-arrays.py)|Easy||
+|1461.|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Python](/Medium/1461.CheckIfaStringContainsAllBinaryCodesofSizeK.py)|Medium|Brute Force|
 |1463.|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[Python](/Hard/1463.CherryPickupII.py)|Hard|`DFS`, `lfu cache`|
 |1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|

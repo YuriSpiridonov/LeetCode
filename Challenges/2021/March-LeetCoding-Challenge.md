@@ -28,6 +28,7 @@ None
 |623.|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Python](/Medium/623.AddOneRowtoTree.py)|Medium|
 |12.|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](/Medium/12.IntegertoRoman.py)|Medium|
 |322.|[Coin Change](https://leetcode.com/problems/coin-change/)|~~Python~~|Medium|
+|1461.|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Python](/Medium/1461.CheckIfaStringContainsAllBinaryCodesofSizeK.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
