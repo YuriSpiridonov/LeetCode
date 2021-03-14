@@ -30,6 +30,7 @@ None
 |322.|[Coin Change](https://leetcode.com/problems/coin-change/)|~~Python~~|Medium|
 |1461.|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Python](/Medium/1461.CheckIfaStringContainsAllBinaryCodesofSizeK.py)|Medium|
 |823.|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|~~Python~~|Medium|
+|1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
