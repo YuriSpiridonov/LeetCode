@@ -32,5 +32,10 @@ None
 |823.|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|~~Python~~|Medium|
 |1721.|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](/Medium/1721.SwappingNodesinaLinkedList.py)|Medium|
 
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
