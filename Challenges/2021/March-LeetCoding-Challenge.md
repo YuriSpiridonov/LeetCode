@@ -35,7 +35,8 @@ None
 ## Week 3
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
-|535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|`Dictionary` as db, `random` generated url|
+|535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|
+|714.|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
