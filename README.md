@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-520%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-521%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 13/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 14/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -239,6 +239,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |468.|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](/Medium/468.ValidateIPAddress.py)|Medium||
 |470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Medium/470.ImplementRand10()UsingRand7().py)|Medium|'Invented the wheel'|
 |476.|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](/Easy/476.NumberComplement.py)|Easy||
+|478.|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](/Medium/478.GenerateRandomPointinaCircle.py)|Medium||
 |495.|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](/Medium/495.TeemoAttacking.py)|Medium||
 |496.|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](/Easy/496.NextGreaterElementI.py)|Easy|Brute force - resolve|
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Medium/497.RandomPointinNon-overlappingRectangles.py)|Medium|`Random`, `Bisect`|
