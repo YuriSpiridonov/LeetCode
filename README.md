@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-521%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-522%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 14/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 15/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -201,6 +201,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |345.|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Python](/Easy/345.ReverseVowelsofaString(list).py)|Easy|`List`, fast, ~x4|
 |347.|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](/Medium/347.TopKFrequentElements.py)|Medium|`Hash Table`|
 |355.|[Design Twitter](https://leetcode.com/problems/design-twitter/)|[Python](/Medium/355.DesignTwitter.py)|Medium|May be improved with `collections`|
+|376.|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](/Medium/376.WiggleSubsequence.py)|Medium||
 |378.|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Python](/Medium/378.KthSmallestElementinaSortedMatrix.py)|Medium|Converted `matrix` into `list`|
 |380.|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Python](/Medium/380.InsertDeleteGetRandomO(1).py)|Medium|not O(1), Brute force|
 |381.|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Python](/Hard/381.InsertDeleteGetRandomO(1)-Duplicatesallowed.py)|Hard|not O(1), Brute force|

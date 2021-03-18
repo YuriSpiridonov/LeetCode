@@ -38,6 +38,7 @@ None
 |535.|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Python](/Medium/535.EncodeandDecodeTinyURL.py)|Medium|
 |714.|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|~~Python~~|Medium|
 |478.|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](/Medium/478.GenerateRandomPointinaCircle.py)|Medium|
+|376.|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](/Medium/376.WiggleSubsequence.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
