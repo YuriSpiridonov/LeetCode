@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-522%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-523%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 15/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 16/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -321,6 +321,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage.py)|Easy||
 |832.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](/Easy/832.FlippinganImage(reverse).py)|Easy|`.reverse()`|
 |835.|[Image Overlap](https://leetcode.com/problems/image-overlap/)|[Python](/Medium/835.ImageOverlap.py)|Medium|Brute Force|
+|841.|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python](/Medium/841.KeysandRooms.py)|Medium|`BFS`|
 |844.|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/BackspaceStringCompare.py)|Easy|
 |845.|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Python](/Medium/845.LongestMountaininArray.py)|Medium|one pass|
 |849.|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](/Medium/849.MaximizeDistancetoClosestPerson.py)|Medium|
