@@ -40,6 +40,7 @@ None
 |478.|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](/Medium/478.GenerateRandomPointinaCircle.py)|Medium|
 |376.|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Python](/Medium/376.WiggleSubsequence.py)|Medium|
 |841.|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python](/Medium/841.KeysandRooms.py)|Medium|
+|1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
