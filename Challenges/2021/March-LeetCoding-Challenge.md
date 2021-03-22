@@ -43,5 +43,10 @@ None
 |1396.|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Python](/Medium/1396.DesignUndergroundSystem.py)|Medium|
 |869.|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Python](/Medium/869.ReorderedPowerof2.py)|Medium|
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|966.|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Python](/Medium/966.VowelSpellchecker.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
