@@ -47,6 +47,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |966.|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Python](/Medium/966.VowelSpellchecker.py)|Medium|
+|923.|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Python](/Medium/923.3SumWithMultiplicity.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

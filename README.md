@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-525%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-526%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 19/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 20/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -349,6 +349,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
+|923.|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Python](/Medium/923.3SumWithMultiplicity.py)|Medium|`collections.Counter`|
 |929.|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Python](/Easy/929.UniqueEmailAddresses.py)|Easy|
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(BinarySearch).py)|Easy|`Binary Search` and rewrite `list`|
 |933.|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](/Easy/933.NumberofRecentCalls(while).py)|Easy|`while` and rewrite `list`|
