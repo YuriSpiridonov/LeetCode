@@ -50,6 +50,7 @@ None
 |923.|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Python](/Medium/923.3SumWithMultiplicity.py)|Medium|
 |870.|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|~~Python~~|Medium|
 |417.|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|~~Python~~|Medium|
+|916.|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Python](/Medium/916.WordSubsets.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

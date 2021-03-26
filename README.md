@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-526%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-527%2F1618-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 20/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 21/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -346,6 +346,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |910.|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Python](/Medium/910.SmallestRangeII.py)|Medium||
 |911.|[Online Election](https://leetcode.com/problems/online-election/)|[Python](/Medium/911.OnlineElection.py)|Medium|`Binary Search`|
 |912.|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Python](/Medium/912.SortanArray.py)|Medium|`sorted()`|
+|916.|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Python](/Medium/916.WordSubsets.py)|Medium|`collections.Counter`, `Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(Dictionary).py)|Easy|`Dictionary`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(List).py)|Easy|`List`|
 |922.|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](/Easy/922.SortArrayByParityII(TwoPointers).py)|Easy|`Two Pointers`|
