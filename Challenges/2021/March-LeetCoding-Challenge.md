@@ -51,6 +51,7 @@ None
 |870.|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|~~Python~~|Medium|
 |417.|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|~~Python~~|Medium|
 |916.|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Python](/Medium/916.WordSubsets.py)|Medium|
+|647.|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](/Medium/647.PalindromicSubstrings.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
