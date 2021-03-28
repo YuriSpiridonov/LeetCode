@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-528%2F1618-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-529%2F1637-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -21,7 +21,7 @@ In this repository provided my Python solutions of LeetCode problems.
 2021:
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
-- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 22/31
+- [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -221,6 +221,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Easy/409.LongestPalindrome.py)|Easy||
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Easy/412.FizzBuzz.py)|Easy||
 |421.|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Python](/Medium/421.MaximumXORofTwoNumbersinanArray.py)|Medium|googled soln|
+|423.|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Python](/Medium/423.ReconstructOriginalDigitsfromEnglish.py)|Medium||
 |429.|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Python](/Medium/429.N-aryTreeLevelOrderTraversal.py)|Medium|`BFS`|
 |432.|[All O\`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|[Python](/Hard/432.AllOoneDataStructure.py)|Hard|`Dictionary` as Data Structure|
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Medium/435.Non-overlappingIntervals.py)|Medium|`lambda`|
