@@ -54,5 +54,10 @@ None
 |647.|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Python](/Medium/647.PalindromicSubstrings.py)|Medium|
 |423.|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Python](/Medium/423.ReconstructOriginalDigitsfromEnglish.py)|Medium|
 
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|971.|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|~~Python~~|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
