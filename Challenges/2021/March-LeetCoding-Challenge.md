@@ -59,6 +59,7 @@ None
 | ----: | --- | --- | --- |
 |971.|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|~~Python~~|Medium|
 |354.|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|~~Python~~|Hard|
+|936.|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
