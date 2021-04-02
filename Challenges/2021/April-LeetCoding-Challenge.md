@@ -14,6 +14,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |234.|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](/Easy/234.PalindromeLinkedList.py)|Easy|
+|474.|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
