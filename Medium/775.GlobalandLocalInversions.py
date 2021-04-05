@@ -29,7 +29,9 @@
         - The time limit for this problem has been reduced.
 '''
 #Difficulty: Medium
-#
+#208 / 208 test cases passed.
+#Runtime: 324 ms
+#Memory Usage: 15.1 MB
 
 #Runtime: 324 ms, faster than 86.59% of Python3 online submissions for Global and Local Inversions.
 #Memory Usage: 15.1 MB, less than 44.06% of Python3 online submissions for Global and Local Inversions.
