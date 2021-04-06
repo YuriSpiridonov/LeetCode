@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-530%2F1637-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-531%2F1637-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 3/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 4/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -525,6 +525,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1544.|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](/Easy/1544.MakeTheStringGreat(string).py)|Easy|`String` in-place|
 |1545.|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python](/Medium/1545.FindKthBitinNthBinaryString.py)|Medium|Brute Force|
 |1550.|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](/Easy/1550.ThreeConsecutiveOdds.py)|Easy|simple counter|
+|1551.|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Python](/Medium/1551.MinimumOperationstoMakeArrayEqual.py)|Medium||
 |1556.|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[Python](/Easy/1556.ThousandSeparator.py)|Easy|`String`, `List`|
 |1557.|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[Python](/Medium/1557.MinimumNumberofVerticestoReachAllNodes.py)|Medium|`Set`, kinda Brute Force|
 |1561.|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[Python](/Medium/1561.MaximumNumberofCoinsYouCanGet.py)|Medium||
