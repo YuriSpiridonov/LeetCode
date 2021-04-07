@@ -27,7 +27,6 @@
     Output: 9
 
     Constraints:
-
         - 1 <= n <= 10^4
 '''
 #Difficulty: Medium
