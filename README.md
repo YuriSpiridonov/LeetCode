@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-531%2F1637-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-532%2F1637-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 5/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 6/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -42,6 +42,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |14.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/14.LongestCommonPrefix.py)|Easy||
 |15.|[3Sum](https://leetcode.com/problems/3sum/)|[Python](/Medium/15.3Sum(bruteforce).py)|Medium|Brute Force|
 |16.|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](/Medium/16.3SumClosest(bruteforce).py)|Medium|Brute Force|
+|17.|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](/Medium/17.LetterCombinationsofaPhoneNumber.py)|Medium|`DFS`, `Recursion`|
 |19.|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/Medium/19.RemoveNthNodeFromEndofList.py)|Medium|`Stack`|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(BruteForce).py)|Easy|Brute Force|
 |20.|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](/Easy/20.ValidParentheses(Stack).py)|Easy|`Stack`|

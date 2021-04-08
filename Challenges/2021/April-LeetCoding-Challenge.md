@@ -21,5 +21,10 @@ None
 |1551.|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Python](/Medium/1551.MinimumOperationstoMakeArrayEqual.py)|Medium|
 |1704.|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](/Easy/1704.DetermineifStringHalvesAreAlike.py)|Easy|
 
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|17.|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](/Medium/17.LetterCombinationsofaPhoneNumber.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
