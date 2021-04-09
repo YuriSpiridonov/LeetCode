@@ -25,6 +25,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |17.|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](/Medium/17.LetterCombinationsofaPhoneNumber.py)|Medium|
+|953.|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Python](/Easy/953.VerifyinganAlienDictionary.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
