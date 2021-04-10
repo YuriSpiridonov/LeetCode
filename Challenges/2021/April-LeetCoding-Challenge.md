@@ -26,6 +26,7 @@ None
 | ----: | --- | --- | --- |
 |17.|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](/Medium/17.LetterCombinationsofaPhoneNumber.py)|Medium|
 |953.|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Python](/Easy/953.VerifyinganAlienDictionary.py)|Easy|
+|329.|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/Hard/329.LongestIncreasingPathinaMatrix.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
