@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-538%2F1651-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-539%2F1651-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 8/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 9/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -586,6 +586,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1748.|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](/Easy/1748.SumofUniqueElements.py)|Easy|`collections.Counter`|
 |1752.|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Python](/Easy/1752.CheckifArrayIsSortedandRotated.py)|Easy||
 |1773.|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Python](/Easy/1773.CountItemsMatchingaRule.py)|Easy||
+|1791.|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Python](/Medium/1791.FindCenterofStarGraph.py)|Medium||
 |1805.|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Python](/Easy/1805.NumberofDifferentIntegersinaString.py)|Easy||
 |1812.|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Python](/Easy/1812.DetermineColorofaChessboardSquare.py)|Easy||
 |1816.|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Python](/Easy/1816.TruncateSentence.py)|Easy||
