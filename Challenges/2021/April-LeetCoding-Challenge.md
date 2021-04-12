@@ -28,6 +28,7 @@ None
 |953.|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Python](/Easy/953.VerifyinganAlienDictionary.py)|Easy|
 |329.|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/Hard/329.LongestIncreasingPathinaMatrix.py)|Hard|
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|
+|667.|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python](/Medium/667.BeautifulArrangementII.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
