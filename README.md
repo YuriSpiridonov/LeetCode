@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-543%2F1651-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-544%2F1651-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 10/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 11/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -197,6 +197,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |328.|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](/Medium/328.OddEvenLinkedList.py)|Medium|`Linked List`|
 |329.|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/Hard/329.LongestIncreasingPathinaMatrix.py)|Hard|`DFS`, `LRU_cache`, Brute Force|
 |334.|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Python](Medium/334.IncreasingTripletSubsequence.py)|Medium|Brute Force|
+|341.|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Medium/341.FlattenNestedListIterator.py)|Medium||
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour(BruteForce).py)|Easy|Brute Force|
 |342.|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](/Easy/342.PowerofFour.py)|Easy|`Bitwise`|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](/Easy/344.ReverseString.py)|Easy|

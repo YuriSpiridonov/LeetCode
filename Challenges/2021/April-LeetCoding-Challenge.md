@@ -29,6 +29,7 @@ None
 |329.|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/Hard/329.LongestIncreasingPathinaMatrix.py)|Hard|
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|
 |667.|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python](/Medium/667.BeautifulArrangementII.py)|Medium|
+|341.|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Medium/341.FlattenNestedListIterator.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
