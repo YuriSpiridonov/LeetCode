@@ -30,6 +30,7 @@ None
 |1302.|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Python](/Medium/1302.DeepestLeavesSum.py)|Medium|
 |667.|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[Python](/Medium/667.BeautifulArrangementII.py)|Medium|
 |341.|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Medium/341.FlattenNestedListIterator.py)|Medium|
+|86.|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](/Medium/86.PartitionList.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
