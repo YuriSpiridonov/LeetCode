@@ -32,5 +32,10 @@ None
 |341.|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Medium/341.FlattenNestedListIterator.py)|Medium|
 |86.|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](/Medium/86.PartitionList.py)|Medium|
 
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
