@@ -36,6 +36,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |509.|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](/Easy/509.FibonacciNumber(list).py)|Easy|
+|1209.|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
