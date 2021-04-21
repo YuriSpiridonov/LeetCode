@@ -41,6 +41,7 @@ None
 |19.|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](/Medium/19.RemoveNthNodeFromEndofList.py)|Medium|
 |377.|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|~~Python~~|Medium|
 |589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|
+|120.|[Triangle](https://leetcode.com/problems/triangle/)|[Python](/Medium/120.Triangle.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
