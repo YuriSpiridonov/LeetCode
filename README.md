@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-544%2F1651-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-545%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 16/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 17/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -268,6 +268,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |538.|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Python](/Easy/538.ConvertBSTtoGreaterTree.py)|Easy|`DFS`, recursion|
 |540.|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Python](/Medium/540.SingleElementinaSortedArray.py)|Medium|`Binary Search`|
 |543.|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%202/DiameterofBinaryTree.py)|Easy|
+|554.|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](/Medium/554.BrickWall.py)|Medium|`Hash Table`|
 |556.|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Python](/Medium/556.NextGreaterElementIII.py)|Medium||
 |559.|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](/Easy/559.MaximumDepthofN-aryTree.py)|Easy|`BFS`|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|

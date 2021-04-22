@@ -43,5 +43,10 @@ None
 |589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|
 |120.|[Triangle](https://leetcode.com/problems/triangle/)|[Python](/Medium/120.Triangle.py)|Medium|
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|554.|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](/Medium/554.BrickWall.py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
