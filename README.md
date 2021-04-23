@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-545%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-546%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 17/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 18/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -301,6 +301,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |678.|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%203/ValidParenthesisString.py)|Medium|
 |682.|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](/Easy/682.BaseballGame.py)|Easy||
 |690.|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](/Easy/690.EmployeeImportance.py)|Easy|`BFS`|
+|696.|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python](/Easy/696.CountBinarySubstrings.py)|Easy|
 |700.|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](/Easy/700.SearchinaBinarySearchTree.py)|Easy|`Binary Search Tree`, `Recursion`|
 |701.|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](/Medium/701.InsertintoaBinarySearchTree.py)|Medium|`Binary Search Tree`, `Recursion`|
 |703.|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](/Easy/703.KthLargestElementinaStream.py)|Easy|brute force|

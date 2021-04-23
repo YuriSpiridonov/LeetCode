@@ -47,6 +47,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |554.|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[Python](/Medium/554.BrickWall.py)|Medium|
+|696.|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python](/Easy/696.CountBinarySubstrings.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
