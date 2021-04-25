@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-546%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-547%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -22,7 +22,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [January LeetCoding Challenge](/Challenges/2021/January-LeetCoding-Challenge.md) - 27/31
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
-- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 18/30
+- [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 19/30
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -61,6 +61,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |41.|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](/Hard/41.FirstMissingPositive.py)|Hard||
 |46.|[Permutations](https://leetcode.com/problems/permutations/)|[Python](/Medium/46.Permutations.py)|Medium|`Itertools`|
 |47.|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](/Medium/47.PermutationsII.py)|Medium|`Itertools`|
+|48.|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](/Medium/48.RotateImage.py)|Medium||
 |49.|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/GroupAnagrams.py)|Medium|
 |50.|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](/Medium/50.Pow(x%2Cn).py)|Medium|`Recursion`|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/MaximumSubarray.py)|Easy|
