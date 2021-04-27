@@ -51,7 +51,7 @@ None
 |1192.|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|~~Python~~|Hard|
 |48.|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](/Medium/48.RotateImage.py)|Medium|
 |1642.|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|~~Python~~|Medium|
-
+|326.|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](/Easy/326.PowerofThree.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
