@@ -52,6 +52,7 @@ None
 |48.|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](/Medium/48.RotateImage.py)|Medium|
 |1642.|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|~~Python~~|Medium|
 |326.|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](/Easy/326.PowerofThree.py)|Easy|
+|63.|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](/Medium/63.UniquePathsII.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
