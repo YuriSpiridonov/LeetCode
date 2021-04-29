@@ -54,5 +54,10 @@ None
 |326.|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](/Easy/326.PowerofThree.py)|Easy|
 |63.|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](/Medium/63.UniquePathsII.py)|Medium|
 
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/Medium/34.FindFirstandLastPositionofElementinSortedArray(BinarySearch).py)|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
