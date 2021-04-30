@@ -58,6 +58,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |34.|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](/Medium/34.FindFirstandLastPositionofElementinSortedArray(BinarySearch).py)|Medium|
+|970.|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Python](/Easy/970.PowerfulIntegers.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
