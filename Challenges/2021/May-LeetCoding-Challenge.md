@@ -14,6 +14,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |745.|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|~~Python~~|Hard|
+|630.|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
