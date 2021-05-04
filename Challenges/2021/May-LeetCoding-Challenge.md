@@ -16,6 +16,7 @@ None
 |745.|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|~~Python~~|Hard|
 |630.|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|~~Python~~|Hard|
 |1480.|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](/Easy/1480.RunningSumof1dArray(ListComprehension).py)|Easy|
+|665.|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](/Easy/665.Non-decreasingArray.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
