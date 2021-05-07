@@ -19,6 +19,7 @@ None
 |665.|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](/Easy/665.Non-decreasingArray.py)|Easy|
 |45.|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|~~Python~~|Medium|
 |109.|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|~~Python~~|Medium|
+|538.|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
