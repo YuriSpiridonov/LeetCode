@@ -21,5 +21,10 @@ None
 |109.|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|~~Python~~|Medium|
 |538.|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|~~Python~~|Medium|
 
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|906.|[Super Palindromes](https://leetcode.com/problems/super-palindromes/)|~~Python~~|Hard|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
