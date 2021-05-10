@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-549%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-550%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -23,7 +23,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
-- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 2/31
+- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 3/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -155,6 +155,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |201.|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/BitwiseANDofNumbersRange.py)|Medium|
 |202.|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/HappyHumber.py)|Easy|
 |203.|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](/Easy/203.RemoveLinkedListElements.py)|Easy|`Linked List`|
+|204.|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](/Easy/204.CountPrimes.py)|Easy|
 |205.|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](/Easy/205.IsomorphicStrings.py)|Easy|`Dictionary`|
 |206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](/Easy/206.ReverseLinkedList.py)|Easy|`Linked List`, brute force|
 |206.|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](/Easy/206.ReverseLinkedList(rightappr).py)|Easy|`Linked List`|
