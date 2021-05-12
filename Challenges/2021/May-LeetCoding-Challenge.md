@@ -28,6 +28,7 @@ None
 |1354.|[Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|~~Python~~|Hard|
 |204.|[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](/Easy/204.CountPrimes.py)|Easy|
 |1423.|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](/Medium/1423.MaximumPointsYouCanObtainfromCards.py)|Medium|
+|304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
