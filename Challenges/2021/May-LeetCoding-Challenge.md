@@ -30,7 +30,12 @@ None
 |1423.|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Python](/Medium/1423.MaximumPointsYouCanObtainfromCards.py)|Medium|
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|
 |816.|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)|~~Python~~|Medium|
-|114.|[PFlatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](/Medium/114.FlattenBinaryTreetoLinkedList.py)|Medium|
+|114.|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](/Medium/114.FlattenBinaryTreetoLinkedList.py)|Medium|
+
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|65.|[Valid Number](https://leetcode.com/problems/valid-number/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

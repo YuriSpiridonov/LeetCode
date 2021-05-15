@@ -106,7 +106,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |110.|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Python](/Easy/110.BalancedBinaryTree.py)|Easy|`DFS`, `Recursion`|
 |111.|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](/Easy/111.MinimumDepthofBinaryTree.py)|Easy|`Binary Tree`, `Recursion`|
 |112.|[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](/Easy/112.PathSum.py)|Easy|`Binary Tree`, `Recursion`|
-|114.|[PFlatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](/Medium/114.FlattenBinaryTreetoLinkedList.py)|Medium|`DFS`, preorder|
+|114.|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](/Medium/114.FlattenBinaryTreetoLinkedList.py)|Medium|`DFS`, preorder|
 |116.|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](/Medium/116.PopulatingNextRightPointersinEachNode.py)|Medium|`BFS`|
 |117.|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](/Medium/117.PopulatingNextRightPointersinEachNodeII.py)|Medium|`BFS`, same as 116|
 |118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
