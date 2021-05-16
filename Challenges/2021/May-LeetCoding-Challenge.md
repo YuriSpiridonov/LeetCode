@@ -36,6 +36,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |65.|[Valid Number](https://leetcode.com/problems/valid-number/)|~~Python~~|Hard|
+|968.|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
