@@ -38,6 +38,7 @@ None
 |65.|[Valid Number](https://leetcode.com/problems/valid-number/)|~~Python~~|Hard|
 |968.|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|~~Python~~|Hard|
 |1048.|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|~~Python~~|Medium|
+|609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
