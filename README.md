@@ -23,7 +23,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
-- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 8/31
+- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 9/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
