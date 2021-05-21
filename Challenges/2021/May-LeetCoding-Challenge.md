@@ -41,6 +41,7 @@ None
 |609.|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](/Medium/609.FindDuplicateFileinSystem.py)|Medium|
 |462.|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](/Medium/462.MinimumMovestoEqualArrayElementsII.py)|Medium|
 |102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](/Medium/102.BinaryTreeLevelOrderTraversal.py)|Medium|
+|890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
