@@ -43,5 +43,10 @@ None
 |102.|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](/Medium/102.BinaryTreeLevelOrderTraversal.py)|Medium|
 |890.|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](/Medium/890.FindandReplacePattern.py)|Medium|
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|51.|[N-Queens](https://leetcode.com/problems/n-queens/)|~~Python~~|Hard|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
