@@ -47,6 +47,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |51.|[N-Queens](https://leetcode.com/problems/n-queens/)|~~Python~~|Hard|
+|943.|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
