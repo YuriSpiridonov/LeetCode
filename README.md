@@ -23,7 +23,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
-- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 13/31
+- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 14/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -199,6 +199,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |299.|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Python](/Easy/299.BullsandCows.py)|Easy||
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce).py)|Medium|Brute force|
 |304.|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Python](/Medium/304.RangeSumQuery2D-Immutable(bruteforce2).py)|Medium|A bit optimized but still brute force|
+|318.|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Python](/Medium/318.MaximumProductofWordLengths.py)|Medium|Brute Force|
 |326.|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Python](/Easy/326.PowerofThree.py)|Easy|`while`|
 |328.|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Python](/Medium/328.OddEvenLinkedList.py)|Medium|`Linked List`|
 |329.|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Python](/Hard/329.LongestIncreasingPathinaMatrix.py)|Hard|`DFS`, `LRU_cache`, Brute Force|
