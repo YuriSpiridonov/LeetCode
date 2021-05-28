@@ -52,6 +52,7 @@ None
 |150.|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](/Medium/150.EvaluateReversePolishNotation.py)|Medium|
 |1689.|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](/Medium/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.py)|Medium|
 |318.|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Python](/Medium/318.MaximumProductofWordLengths.py)|Medium|
+|1695.|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](/Medium/1695.MaximumErasureValue.py)|Medium||
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
