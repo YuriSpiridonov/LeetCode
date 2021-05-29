@@ -54,5 +54,10 @@ None
 |318.|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Python](/Medium/318.MaximumProductofWordLengths.py)|Medium|
 |1695.|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](/Medium/1695.MaximumErasureValue.py)|Medium||
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|~~Python~~|Hard|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
