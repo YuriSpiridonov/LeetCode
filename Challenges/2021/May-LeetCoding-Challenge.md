@@ -58,6 +58,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|~~Python~~|Hard|
+|164.|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](/Hard/164.MaximumGap.py)|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
