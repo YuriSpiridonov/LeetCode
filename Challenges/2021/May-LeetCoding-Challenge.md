@@ -59,6 +59,7 @@ None
 | ----: | --- | --- | --- |
 |52.|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|~~Python~~|Hard|
 |164.|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](/Hard/164.MaximumGap.py)|Hard|
+|1268.|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python](/Medium/1268.SearchSuggestionsSystem.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).

@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-553%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-554%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -23,7 +23,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [February LeetCoding Challenge](/Challenges/2021/February-LeetCoding-Challenge.md) - 23/28
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
-- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 16/31
+- [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
 <br><br>
 ## Solutions
 *P.S. If you like this, please leave me a star.* ★
@@ -439,6 +439,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1260.|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[Python](/Easy/1260.Shift2DGrid.py)|Easy|`array`|
 |1261.|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Python](/Medium/1261.FindElementsinaContaminatedBinaryTree.py)|Medium|`DFS`, iteratively|
 |1266.|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Python](/Easy/1266.MinimumTimeVisitingAllPoints.py)|Easy|simple counter|
+|1268.|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python](/Medium/1268.SearchSuggestionsSystem.py)|Medium|Brute Force|
 |1282.|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Python](/Medium/1282.GroupthePeopleGiventheGroupSizeTheyBelongTo.py)|Medium||
 |1283.|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](/Medium/1283.FindtheSmallestDivisorGivenaThreshold.py)|Medium|`Binary Search`|
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Medium/1286.IteratorforCombination.py)|Medium|`Itertools`|
