@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-555%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-556%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -24,7 +24,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 1/30
+- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 2/30
 
 <br><br>
 ## Solutions
@@ -518,6 +518,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |1461.|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Python](/Medium/1461.CheckIfaStringContainsAllBinaryCodesofSizeK.py)|Medium|Brute Force|
 |1463.|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[Python](/Hard/1463.CherryPickupII.py)|Hard|`DFS`, `lfu cache`|
 |1464.|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Python](/Easy/1464.MaximumProductofTwoElementsinanArray.py)|Easy||
+|1465.|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Python](/Medium/1465.MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.py)|Medium||
 |1470.|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Python](/Easy/1470.ShuffletheArray.py)|Easy|`Zip`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory.py)|Medium|`Doubly Linked List`|
 |1472.|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Python](/Medium/1472.DesignBrowserHistory(Dictionary).py)|Medium|`Dictionary`|
