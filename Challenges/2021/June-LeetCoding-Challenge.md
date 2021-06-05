@@ -16,6 +16,7 @@ None
 |695.|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](/Medium/695.MaxAreaofIsland.py)|Medium|
 |97.|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|~~Python~~|Medium|
 |1465.|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Python](/Medium/1465.MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.py)|Medium|
+|1383.|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
