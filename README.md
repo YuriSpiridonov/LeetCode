@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-556%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-557%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -24,7 +24,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 2/30
+- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 3/30
 
 <br><br>
 ## Solutions
@@ -121,6 +121,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeTwoPointer.py)|Easy|`Two pointers` from start & end|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReFindall.py)|Easy|`Re.findall` and left half == rev. right half|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/125.ValidPalindromeReSub.py)|Easy|`Re.sub` and s == reversed s|
+|128.|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](/Medium/128.LongestConsecutiveSequence.py)|Medium||
 |129.|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](/Medium/129.SumRoottoLeafNumbers.py)|Medium|`DFS`|
 |134.|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](/Medium/134.GasStation.py)|Medium||
 |136.|[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%201/SingleNumber.py)|Easy|

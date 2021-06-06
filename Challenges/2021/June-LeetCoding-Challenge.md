@@ -18,6 +18,7 @@ None
 |1465.|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Python](/Medium/1465.MaximumAreaofaPieceofCakeAfterHorizontalandVerticalCuts.py)|Medium|
 |752.|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|~~Python~~|Medium|
 |1383.|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|~~Python~~|Hard|
+|128.|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](/Medium/128.LongestConsecutiveSequence.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
