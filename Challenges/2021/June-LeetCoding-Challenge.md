@@ -19,6 +19,7 @@ None
 |752.|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|~~Python~~|Medium|
 |1383.|[Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|~~Python~~|Hard|
 |128.|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](/Medium/128.LongestConsecutiveSequence.py)|Medium|
+|746.|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](/Easy/746.MinCostClimbingStairs.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
