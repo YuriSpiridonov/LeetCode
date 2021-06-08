@@ -21,5 +21,10 @@ None
 |128.|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](/Medium/128.LongestConsecutiveSequence.py)|Medium|
 |746.|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](/Easy/746.MinCostClimbingStairs.py)|Easy|
 
+## Week 2
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|105.|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|~~Python~~|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
