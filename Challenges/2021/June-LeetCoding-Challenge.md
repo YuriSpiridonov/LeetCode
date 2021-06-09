@@ -25,6 +25,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |105.|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|~~Python~~|Medium|
+|1696.|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
