@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-558%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-559%2F1665-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -24,7 +24,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 4/30
+- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 5/30
 
 <br><br>
 ## Solutions
@@ -326,6 +326,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |720.|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Python](/Easy/720.LongestWordinDictionary.py)|Easy|`Trie`|
 |722.|[Remove Comments](https://leetcode.com/problems/remove-comments/)|[Python](/Medium/722.RemoveComments.py)|Medium|`String`|
 |728.|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](/Easy/728.SelfDividingNumbers.py)|Easy|Math|
+|729.|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](/Medium/729.MyCalendarI.py)|Medium|`Limked List`, `Dictionary`|
 |735.|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Python](/Medium/735.AsteroidCollision.py)|Medium|`Stack`|
 |744.|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](/Easy/744.FindSmallestLetterGreaterThanTarget.py)|Easy|`Binary Search`|
 |746.|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](/Easy/746.MinCostClimbingStairs.py)|Easy|`DP`|

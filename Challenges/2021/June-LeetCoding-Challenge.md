@@ -26,6 +26,7 @@ None
 | ----: | --- | --- | --- |
 |105.|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|~~Python~~|Medium|
 |1696.|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|~~Python~~|Medium|
+|729.|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](/Medium/729.MyCalendarI.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
