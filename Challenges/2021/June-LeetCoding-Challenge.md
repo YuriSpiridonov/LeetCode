@@ -28,6 +28,7 @@ None
 |1696.|[Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|~~Python~~|Medium|
 |729.|[My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[Python](/Medium/729.MyCalendarI.py)|Medium|
 |1690.|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|~~Python~~|Medium|
+|871.|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
