@@ -30,6 +30,7 @@ None
 |1690.|[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|~~Python~~|Medium|
 |871.|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|~~Python~~|Hard|
 |336.|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|~~Python~~|Hard|
+|1710.|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python](/Easy/1710.MaximumUnitsonaTruck.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
