@@ -32,5 +32,10 @@ None
 |336.|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|~~Python~~|Hard|
 |1710.|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Python](/Easy/1710.MaximumUnitsonaTruck.py)|Easy|
 
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|473.|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|~~Python~~|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
