@@ -36,6 +36,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |473.|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|~~Python~~|Medium|
+|22.|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
