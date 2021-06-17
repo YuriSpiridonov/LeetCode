@@ -37,6 +37,7 @@ None
 | ----: | --- | --- | --- |
 |473.|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|~~Python~~|Medium|
 |22.|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|~~Python~~|Medium|
+|795.|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|~~Python~~|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
