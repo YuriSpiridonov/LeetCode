@@ -38,6 +38,7 @@ None
 |473.|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|~~Python~~|Medium|
 |22.|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|~~Python~~|Medium|
 |795.|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|~~Python~~|Medium|
+|307.|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Python](/Medium/307.RangeSumQuery - Mutable.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
