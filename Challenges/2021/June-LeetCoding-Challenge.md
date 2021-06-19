@@ -39,6 +39,7 @@ None
 |22.|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|~~Python~~|Medium|
 |795.|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|~~Python~~|Medium|
 |307.|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Python](/Medium/307.RangeSumQuery - Mutable.py)|Medium|
+|629.|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
