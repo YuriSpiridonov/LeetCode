@@ -24,7 +24,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 5/30
+- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 6/30
 
 <br><br>
 ## Solutions

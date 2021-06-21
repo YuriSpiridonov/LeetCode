@@ -41,6 +41,7 @@ None
 |307.|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Python](/Medium/307.RangeSumQuery - Mutable.py)|Medium|
 |629.|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|~~Python~~|Hard|
 |778.|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|~~Python~~|Hard|
+|118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
