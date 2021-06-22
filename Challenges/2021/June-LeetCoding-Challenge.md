@@ -43,5 +43,10 @@ None
 |778.|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|~~Python~~|Hard|
 |118.|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/118.PascalsTriangle.py)|Easy|
 
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|792.|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|~~Python~~|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
