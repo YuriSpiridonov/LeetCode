@@ -47,6 +47,7 @@ None
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |792.|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|~~Python~~|Medium|
+|92.|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](/Medium/92.ReverseLinkedListII.py)|Medium|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
