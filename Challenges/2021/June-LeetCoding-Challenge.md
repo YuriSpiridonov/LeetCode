@@ -50,6 +50,7 @@ None
 |92.|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Python](/Medium/92.ReverseLinkedListII.py)|Medium|
 |576.|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|~~Python~~|Medium|
 |684.|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|~~Python~~|Medium|
+|315.|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
