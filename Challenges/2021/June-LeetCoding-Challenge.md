@@ -51,6 +51,7 @@ None
 |576.|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|~~Python~~|Medium|
 |684.|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|~~Python~~|Medium|
 |315.|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|~~Python~~|Hard|
+|135.|[Candy](https://leetcode.com/problems/candy/)|~~Python~~|Hard|
 
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
