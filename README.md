@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
+
+## Project on summer  pause :)
+
 ## Introduction
 In this repository provided my Python solutions of LeetCode problems. 
 - I highly recommend you to try and solve problems yourself before look at the solutions here.
@@ -24,7 +27,7 @@ In this repository provided my Python solutions of LeetCode problems.
 - [March LeetCoding Challenge](/Challenges/2021/March-LeetCoding-Challenge.md) - 23/31
 - [April LeetCoding Challenge](/Challenges/2021/April-LeetCoding-Challenge.md) - 23/30
 - [May LeetCoding Challenge](/Challenges/2021/May-LeetCoding-Challenge.md) - 17/31
-- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 8/30
+- [June LeetCoding Challenge](/Challenges/2021/June-LeetCoding-Challenge.md) - 10/30
 
 <br><br>
 ## Solutions

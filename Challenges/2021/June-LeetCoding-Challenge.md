@@ -54,5 +54,11 @@ None
 |135.|[Candy](https://leetcode.com/problems/candy/)|~~Python~~|Hard|
 |1047.|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python](/Easy/1047.RemoveAllAdjacentDuplicatesInString.py)|Easy|
 
+## Week 5
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|1004.|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|~~Python~~|Medium|
+|236.|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|~~Python~~|Medium|
+
 ## License
 The code is open-source and licensed under the [MIT License](/LICENSE).
