@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-559%2F1665-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-560%2F1923-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -289,6 +289,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |559.|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Python](/Easy/559.MaximumDepthofN-aryTree.py)|Easy|`BFS`|
 |560.|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Python](https://github.com/YuriSpiridonov/30-Day-LeetCoding-Challenge/blob/master/Week%204/SubarraySumEqualsK.py)|Medium|
 |563.|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[Python](/Easy/563.BinaryTreeTilt.py)|Easy|`Binary Tree`, `postorder`, overcode|
+|566.|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](/Easy/566.ReshapetheMatrix.py)|Easy|Brute Force|
 |575.|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Python](/Easy/575.DistributeCandies.py)|Easy||
 |581.|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](/Medium/581.ShortestUnsortedContinuousSubarray.py)|Medium||
 |589.|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Python](/Easy/589.N-aryTreePreorderTraversal.py)|Easy|`Recursion`|
