@@ -1,6 +1,6 @@
 # Python solutions of LeetCode problems.
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)&nbsp;
-![Problems Solved](https://img.shields.io/badge/problems%20solved-560%2F1923-orange)&nbsp;
+![Problems Solved](https://img.shields.io/badge/problems%20solved-561%2F1923-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-Daily-brightgreen.svg)&nbsp;
 <br><br>
@@ -340,6 +340,7 @@ In this repository provided my Python solutions of LeetCode problems.
 |771.|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/771.JewelsandStones.py)|Easy|`while loop`, `for loop` and `list comprehension`|
 |775.|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Python](/Medium/775.GlobalandLocalInversions.py)|Medium||
 |785.|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Python](/Medium/785.IsGraphBipartite.py)|Medium|Iteratively `BFS`, `stack`, `XOR`|
+|791.|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[Python](/Medium/791.CustomSortString.py)|Medium||
 |804.|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](/Easy/804.UniqueMorseCodeWords.py)|Easy|`Dictionary`|
 |807.|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Python](/Medium/807.MaxIncreasetoKeepCitySkyline.py)|Medium||
 |811.|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](/Easy/811.SubdomainVisitCount.py)|Easy|`Dictionary`|
